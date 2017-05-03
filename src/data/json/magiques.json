@@ -1,0 +1,185 @@
+{
+  "nameCarte1": {
+    "nom": "Élephant",
+    "nomComplet": "Élephant 南蛮入侵",
+    "image": "tool1",
+    "descriptions" : {
+      "description1": {
+        "name": "",
+        "description": "Tous les joueurs jouent une attaque ou perd un point de vie."
+      }
+    }
+  },
+
+  "nameCarte2": {
+    "nom": "Pluie de flèches",
+    "nomComplet": "Pluie de flèches",
+    "image": "tool2",
+    "descriptions" : {
+      "description1": {
+        "name": "",
+        "description": "Tous les joueurs jouent une carte ratée ou perd un point de vie."
+      }
+    }
+  },
+
+  "nameCarte3": {
+    "nom": "Pont cassé",
+    "nomComplet": "Pont cassé 过河拆桥",
+    "image": "tool3",
+    "descriptions" : {
+      "description1": {
+        "name": "",
+        "description": "Un joueur peut défausser n'importe quelle carte d'un joueur (équipement ou dans la main)"
+      }
+    }
+  },
+
+  "nameCarte4": {
+    "nom": "Prison",
+    "nomComplet": "Prison 乐不思蜀",
+    "image": "tool4",
+    "descriptions" : {
+      "description1": {
+        "name": "",
+        "description": "Un joueur peut jouer cette carte sur n'importe quel autre joueur. La cible doit faire un arrêt lors de son tour et tire une carte de vérification de la pioche. Si ce n'est pas un coeur, il perd ne pourra pas jouer (perd sa phase d'action), il ne peut que piocher et se défausser."
+      }
+    }
+  },
+
+  "nameCarte5": {
+    "nom": "Magasin",
+    "nomComplet": "Magasin 五谷丰登",
+    "image": "tool5",
+    "descriptions" : {
+      "description1": {
+        "name": "",
+      "description": "Quand un joueur utilise cette carte, il pioche autant de carte que de joueurs encore en jeu et les pose face visible. En commençant par l'utilisateur de la carte, chaque joueur choisit une carte et la met dans sa main."
+      }
+    }
+  },
+
+  "nameCarte6": {
+    "nom": "Main de pioche",
+    "nomComplet": "Main de pioche 无中生有",
+    "image": "tool6",
+    "descriptions" : {
+      "description1": {
+        "name": "",
+        "description": "Le joueur qui joue cette carte, tire deux cartes de la pioche."
+      }
+    }
+  },
+
+  "nameCarte7": {
+    "nom": "Braquage",
+    "nomComplet": "Braquage 顺手牵羊",
+    "image": "tool7",
+    "descriptions" : {
+      "description1": {
+        "name": "",
+        "description": "Un joueur choisit une carte d'un autre joueur de sa portée et la met dans sa main."
+      }
+    }
+  },
+
+  "nameCarte8": {
+    "nom": "Tête de lion",
+    "nomComplet": "Tête de lion 无懈可击",
+    "image": "tool8",
+    "descriptions" : {
+      "description1": {
+        "name": "",
+        "description": "N'importe quel joueur peut jouer cette carte pour annuler l'effet d'une carte magique posée par un autre joueur. Elle peut également être jouée par un autre joueur."
+      }
+    }
+  },
+
+  "nameCarte9": {
+    "nom": "Jardin de pêches",
+    "nomComplet": "Jardin de pêches 桃园结义",
+    "image": "tool9",
+    "descriptions" : {
+      "description1": {
+        "name": "",
+        "description": "Tous les joueurs endommagés gagnent un point de vie."
+      }
+    }
+  },
+
+  "nameCarte10": {
+    "nom": "Contraindre",
+    "nomComplet": "Contraindre 借刀杀人",
+    "image": "tool10",
+    "descriptions" : {
+      "description1": {
+        "name": "",
+        "description": "Un joueur (attaquant) cible un autre joueur qui possède une arme. Ensuite, l'attaquant choisit un autre personne de la porté du joueur cible. Si la cible ne le fait pas, l'attaquant prend l'arme de la cible et la met dans sa main."
+      }
+    }
+  },
+
+  "nameCarte11": {
+    "nom": "Duel",
+    "nomComplet": "Duel 决斗",
+    "image": "tool11",
+    "descriptions" : {
+      "description1": {
+        "name": "",
+        "description": "Un joueur peut cibler n'importe quel joueur avec cette carte. Si la cible ne joue pas une attaque, il perd un point de vie. S'il joue une attaque alors l'attaquant devra aussi attaque et l'autre aussi jusqu'à qu'un des joueurs n'a plus d'attaque et il perdra un point de vie."
+      }
+    }
+  },
+
+  "nameCarte12": {
+    "nom": "Chaînes",
+    "nomComplet": "Chaînes 铁索连环",
+    "image": "tool12",
+    "descriptions" : {
+      "description1": {
+        "name": "",
+        "description": "Un joueur peut cibler jusqu'à deux joueurs, ceux-ci basculent leur carte personnage pour signifier leurs enchaînement. Si un des joueurs de la chaîne subit un dommage (éclair ou feu), tous les autres membres de la chaine recoivent le même."
+      },
+      "description2": {
+        "name": "",
+        "description": "Un joueur peut jeter cete carte dans la défausse et piocher une carte de la pioche."
+      }
+    }
+  },
+
+  "nameCarte13": {
+    "nom": "Foudre",
+    "nomComplet": "Foudre 闪电",
+    "image": "tool13",
+    "descriptions" : {
+      "description1": {
+        "name": "",
+        "description": "Un joueur peut jouer cette carte en la posant face visible devant lui. Durant le début de son prochain tour, il tire une carte de vérification de la pioche. Si la carte est entre 2 et 9 de pique, le joueur perd 3 points de vie. Sinon, la carte se déplace vers le joueur d'après dans le sens du jeu."
+      }
+    }
+  },
+
+  "nameCarte14": {
+    "nom": "Flamme",
+    "nomComplet": "Pluie de flèches",
+    "image": "tool14",
+    "descriptions" : {
+      "description1": {
+        "name": "",
+        "description": "Un joueur peut demander le signe à un joueur peu importe la portée et celui-ci doit lui donner un signe si le joueur qui joue cette carte jete le meme signe alors le joueur ciblé perd un point de vie"
+      }
+    }
+  },
+
+  "nameCarte15": {
+    "nom": "Famine",
+    "nomComplet": "Famine 兵粮寸断",
+    "image": "tool15",
+    "descriptions" : {
+      "description1": {
+        "name": "",
+        "description": "Un joueur peut jouer cette carte sur n'importe quel joueur de sa portée. La cible doit faire un arrêt lors de son tour et tirer une carte de vérification de la pioche. Si la carte n'est pas un coeur la cible perd sa phase de pioche"
+      }
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+	"nameCarte1" : {
+		"nom" : "Dà Yuān",
+		"image" : "horse1",
+		"descriptions" : {
+			"description1": {
+				"name": "",
+				"description": "Vous pouvez voir à une distance augmentée de 1"
+			}
+		}
+	},
+
+	"nameCarte2" : {
+		"nom" : "Red Hare",
+		"image" : "horse2",
+		"descriptions" : {
+			"description1": {
+				"name": "",
+				"description": "Vous pouvez voir à une distance augmentée de 1"
+			}
+		}
+	},
+
+	"nameCarte3" : {
+		"nom" : "Zǐ Xīng",
+		"image" : "horse3",
+		"descriptions" : {
+			"description1": {
+				"name": "",
+				"description": "Vous pouvez voir à une distance augmentée de 1"
+			}
+		}
+	},
+
+	"nameCarte4" : {
+		"nom" : "Dí Lú",
+		"image" : "horse4",
+		"descriptions" : {
+			"description1": {
+				"name": "",
+				"description": "Les autres, vous vois à une distance augmentée de 1"
+			}
+		}
+	},
+
+	"nameCarte5" : {
+		"nom" : "Huá Liú",
+		"image" : "horse5",
+		"descriptions" : {
+			"description1": {
+				"name": "",
+				"description": "Les autres, vous vois une à distance augmentée de 1"
+			}
+		}
+	},
+
+	"nameCarte6" : {
+		"nom" : "The Shadow",
+		"image" : "horse6",
+		"descriptions" : {
+			"description1": {
+				"name": "",
+				"description": "Les autres, vous vois une à distance augmentée de 1"
+			}
+		}
+	},
+
+	"nameCarte7" : {
+		"nom" : "Zhuǎ Huáng Fēi Diàn",
+		"image" : "horse7",
+		"descriptions" : {
+			"description1": {
+				"name": "",
+				"description": "Les autres, vous vois une à distance augmentée de 1"
+			}
+		}
+	}
+}

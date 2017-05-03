@@ -1,0 +1,81 @@
+{
+	"nameCarte1" : {
+		"nom" : "Attaque",
+		"nomComplet": "Attaque 杀",
+		"image" : "basic1",
+		"descriptions" : {
+			"description1": {
+				"name": "",
+				"description": "Une fois par tour, un joueur peut attaquer n'importe quel joueur au sein de sa portée. Si l'autre joueur n'utilise pas un raté, il perd un point de vie."
+			}
+		}
+	},
+
+	"nameCarte2" : {
+		"nom" : "Attaque de feu",
+		"nomComplet": "Attaque de feu 火杀",
+		"image" : "basic2",
+		"descriptions" : {
+			"description1": {
+				"name": "",
+				"description": "Une fois par tour, un joueur peut attaquer n'importe quel joueur au sein de sa portée. Si l'autre joueur n'utilise pas un raté, il recoit un dégâts de feu"
+			}
+		}
+	},
+
+	"nameCarte3" : {
+		"nom" : "Attaque éclair",
+		"nomComplet": "Attaque éclair 雷杀",
+		"image" : "basic3",
+		"descriptions" : {
+			"description1": {
+				"name": "",
+				"description": "Une fois par tour, un joueur peut attaquer n'importe quel joueur au sein de sa portée. Si l'autre joueur n'utilise pas un raté, il recoit un dégâts de de foudre"
+			}
+		}
+	},
+
+	"nameCarte4" : {
+		"nom" : "Raté",
+		"nomComplet": "Raté 闪",
+		"image" : "basic4",
+		"descriptions" : {
+			"description1": {
+				"name": "",
+				"description": "Lorsqu'un joueur est attaqué, il joue cette carte pour éviter de prendre des dégats."
+			}
+		}
+	},
+
+	"nameCarte5" : {
+		"nom" : "Pêche",
+		"nomComplet": "Pêche 桃",
+		"image" : "basic5",
+		"descriptions" : {
+			"description1": {
+				"name": "",
+				"description": "Durant son tour, un joueur peut utiliser une pêche pour augmenter d'un point de vie."
+			},
+			"description2": {
+				"name": "",
+				"description": "Quand un joueur est sur le point de mourir, n'importe quel joueur peut utiliser une êche pour lui donner un point de vie."
+			}
+		}
+	},
+
+	"nameCarte6" : {
+		"nom" : "Vin",
+		"nomComplet": "Vin 酒",
+		"image" : "basic6",
+		"descriptions" : {
+			"description1": {
+				"name": "",
+				"description": "Quand un joueur est sur le point de mourir, il peut utiliser cette carte pour gagner un point de vie (uniquement lui)."
+			},
+			"description2": {
+				"name": "",
+				"description": "Le joueur peut combiner cette carte avec une attaque, le dégât est alors augmenté de un."
+			}
+		}
+	}
+}

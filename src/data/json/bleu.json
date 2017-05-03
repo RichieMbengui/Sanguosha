@@ -1,0 +1,331 @@
+{
+	"nameCarte1" : {
+		"nom" : "Cáo Cāo",
+		"nomComplet": "Cáo Cāo 曹操",
+		"image" : "",
+		"description" : {
+			"description1": "Quand il est endommagé par une carte, il peut prendre la carte qu'il a endommagé et la mettre dans sa main.",
+			"description2": "S'il a besoin d'utiliser une esquive, un membre de son royaume peut lui en donner.",
+			"description3":""
+		}
+	},
+
+	"nameCarte2" : {
+		"nom" : "",
+		"nomComplet": "Élephant",
+		"image" : "",
+		"description" : {
+			"description1": "",
+			"description2": "",
+			"description3":""
+		}
+	},
+
+
+	"nameCarte3" : {
+		"nom" : "",
+		"nomComplet": "Élephant",
+		"image" : "",
+		"description" : {
+			"description1": "",
+			"description2": "",
+			"description3":""
+		}
+	},
+
+
+	"nameCarte4" : {
+		"nom" : "",
+		"nomComplet": "Élephant",
+		"image" : "",
+		"description" : {
+			"description1": "",
+			"description2": "",
+			"description3":""
+		}
+	},
+
+
+	"nameCarte5" : {
+		"nom" : "",
+		"nomComplet": "Élephant",
+		"image" : "",
+		"description" : {
+			"description1": "",
+			"description2": "",
+			"description3":""
+		}
+	},
+
+
+
+	"nameCarte6" : {
+		"nom" : "",
+		"nomComplet": "Élephant",
+		"image" : "",
+		"description" : {
+			"description1": "",
+			"description2": "",
+			"description3":""
+		}
+	},
+
+
+	"nameCarte7" : {
+		"nom" : "",
+		"nomComplet": "Élephant",
+		"image" : "",
+		"description" : {
+			"description1": "",
+			"description2": "",
+			"description3":""
+		}
+	},
+
+
+	"nameCarte8" : {
+		"nom" : "",
+		"nomComplet": "Élephant",
+		"image" : "",
+		"description" : {
+			"description1": "",
+			"description2": "",
+			"description3":""
+		}
+	},
+
+
+	"nameCarte9" : {
+		"nom" : "",
+		"nomComplet": "Élephant",
+		"image" : "",
+		"description" : {
+			"description1": "",
+			"description2": "",
+			"description3":""
+		}
+	},
+
+
+	"nameCarte10" : {
+		"nom" : "",
+		"nomComplet": "Élephant",
+		"image" : "",
+		"description" : {
+			"description1": "",
+			"description2": "",
+			"description3":""
+		}
+	},
+
+
+	"nameCarte11" : {
+		"nom" : "",
+		"nomComplet": "Élephant",
+		"image" : "",
+		"description" : {
+			"description1": "",
+			"description2": "",
+			"description3":""
+		}
+	},
+
+
+	"nameCarte12" : {
+		"nom" : "",
+		"nomComplet": "Élephant",
+		"image" : "",
+		"description" : {
+			"description1": "",
+			"description2": "",
+			"description3":""
+		}
+	},
+
+
+
+	"nameCarte13" : {
+		"nom" : "",
+		"nomComplet": "Élephant",
+		"image" : "",
+		"description" : {
+			"description1": "",
+			"description2": "",
+			"description3":""
+		}
+	},
+
+
+	"nameCarte14" : {
+		"nom" : "",
+		"nomComplet": "Élephant",
+		"image" : "",
+		"description" : {
+			"description1": "",
+			"description2": "",
+			"description3":""
+		}
+	},
+
+
+	"nameCarte15" : {
+		"nom" : "",
+		"nomComplet": "Élephant",
+		"image" : "",
+		"description" : {
+			"description1": "",
+			"description2": "",
+			"description3":""
+		}
+	},
+
+
+	"nameCarte16" : {
+		"nom" : "",
+		"nomComplet": "Élephant",
+		"image" : "",
+		"description" : {
+			"description1": "",
+			"description2": "",
+			"description3":""
+		}
+	},
+
+
+	"nameCarte17" : {
+		"nom" : "",
+		"nomComplet": "Élephant",
+		"image" : "",
+		"description" : {
+			"description1": "",
+			"description2": "",
+			"description3":""
+		}
+	},
+
+
+	"nameCarte18" : {
+		"nom" : "",
+		"nomComplet": "Élephant",
+		"image" : "",
+		"description" : {
+			"description1": "",
+			"description2": "",
+			"description3":""
+		}
+	},
+
+
+	"nameCarte19" : {
+		"nom" : "",
+		"nomComplet": "Élephant",
+		"image" : "",
+		"description" : {
+			"description1": "",
+			"description2": "",
+			"description3":""
+		}
+	},
+
+
+	"nameCarte20" : {
+		"nom" : "",
+		"nomComplet": "Élephant",
+		"image" : "",
+		"description" : {
+			"description1": "",
+			"description2": "",
+			"description3":""
+		}
+	},
+
+
+	"nameCarte21" : {
+		"nom" : "",
+		"nomComplet": "Élephant",
+		"image" : "",
+		"description" : {
+			"description1": "",
+			"description2": "",
+			"description3":""
+		}
+	},
+
+	"nameCarte22" : {
+		"nom" : "",
+		"nomComplet": "Élephant",
+		"image" : "",
+		"description" : {
+			"description1": "",
+			"description2": "",
+			"description3":""
+		}
+	},
+
+
+	"nameCarte23" : {
+		"nom" : "",
+		"nomComplet": "Élephant",
+		"image" : "",
+		"description" : {
+			"description1": "",
+			"description2": "",
+			"description3":""
+		}
+	},
+
+
+	"nameCarte24" : {
+		"nom" : "",
+		"nomComplet": "Élephant",
+		"image" : "",
+		"description" : {
+			"description1": "",
+			"description2": "",
+			"description3":""
+		}
+	},
+
+	"nameCarte25" : {
+		"nom" : "",
+		"nomComplet": "Élephant",
+		"image" : "",
+		"description" : {
+			"description1": "",
+			"description2": "",
+			"description3":""
+		}
+	},
+
+	"nameCarte26" : {
+		"nom" : "",
+		"nomComplet": "Élephant",
+		"image" : "",
+		"description" : {
+			"description1": "",
+			"description2": "",
+			"description3":""
+		}
+	},
+
+	"nameCarte27" : {
+		"nom" : "",
+		"nomComplet": "Élephant",
+		"image" : "",
+		"description" : {
+			"description1": "",
+			"description2": "",
+			"description3":""
+		}
+	},
+	"nameCarte28" : {
+		"nom" : "",
+		"nomComplet": "Élephant",
+		"image" : "",
+		"description" : {
+			"description1": "",
+			"description2": "",
+			"description3":""
+		}
+	}
+}

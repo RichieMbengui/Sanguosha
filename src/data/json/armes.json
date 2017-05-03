@@ -1,0 +1,133 @@
+{
+	"nameCarte1" : {
+		"nom" : "Volcanique",
+		"nomComplet": "Volcanique 诸葛连弩",
+		"image" : "arme1",
+		"descriptions" : {
+			"description1": {
+				"name": "Portée : 1",
+				"description": "Avec cet équipement, un joueur peut attaquer autant de fois qu'il veut et peut durant son tour."
+			}
+		}
+	},
+
+	"nameCarte2" : {
+		"nom" : "Scimitar ancienne",
+		"nomComplet": "Scimitar ancienne 古 锭 刀",
+		"image" : "arme2",
+		"descriptions" : {
+			"description1": {
+				"name": "Portée : 2",
+				"description": "Lorsque la cible d'une attaque reçoit des dommages et n'a pas de carte en main, le dommage est augmenté d'un point de vie."
+			}
+		}
+	},
+
+	"nameCarte3" : {
+		"nom" : "Blue Steel Blade",
+		"nomComplet": "Blue Steel Blade 青釭剑",
+		"image" : "arme3",
+		"descriptions" : {
+			"description1": {
+				"name": "Portée : 2",
+				"description": "Avec cet équipement, l'armure de la cible n'a aucun effet sur l'attaque du joueur."
+			}
+		}
+	},
+
+	"nameCarte4" : {
+		"nom" : "Gender Double Swords",
+		"nomComplet": "Gender Double Swords 雌雄双股剑",
+		"image" : "arme4",
+		"descriptions" : {
+			"description1": {
+				"name": "Portée : 2",
+				"description": "Quand un joueur attaque une cible du sexe opposé, elle défausse une carte de sa main ou le joueur avec l'arme tire une carte de la main de la cible."
+			}
+		}
+	},
+
+	"nameCarte5" : {
+		"nom" : "Frost Blade",
+		"nomComplet": "Frost Blade 寒冰剑",
+		"image" : "arme5",
+		"descriptions" : {
+			"description1": {
+				"name": "Portée : 2",
+				"description": "Quand une attaque endommage la cible, le joueur avec l'arme peut endommager d'un point de vie ou de retirer deux carte de la cible (visible ou dans la main)"
+			}
+		}
+	},
+
+	"nameCarte6" : {
+		"nom" : "Rock Cleaving Axe",
+		"nomComplet": "Rock Cleaving Axe 贯石斧",
+		"image" : "arme6",
+		"descriptions" : {
+			"description1": {
+				"name": "Portée : 3",
+				"description": "Lorsque la cible de l'attaque échappe à l'attaque, le joueur peut alors se défausser de 2 cartes pour provoquer une nouvelle attaque, la cible n'aura aucune possibilité d'esquiver."
+			}
+		}
+	},
+
+	"nameCarte7" : {
+		"nom" : "Green Dragon Crescent Blade",
+		"nomComplet": "Green Dragon Crescent Blade 青龙偃月刀",
+		"image" : "arme7",
+		"descriptions" : {
+			"description1": {
+				"name":  "Portée : 3",
+				"description": "Quand un joueur attaque la cible et qu'elle utilise un raté, l'attaquant peut attaquer à nouveau la cible."
+			}
+		}
+	},
+
+	"nameCarte8" : {
+		"nom" : "Serpent Halberd",
+		"nomComplet": "Serpent Halberd 丈八蛇矛",
+		"image" : "arme8",
+		"descriptions" : {
+			"description1": {
+				"name":  "Portée : 3",
+				"description": "Avec cet équipement, le joueur peut décider de jeter 2 cartes de sa main pour provoquer une nouvelle attaque."
+			}
+		}
+	},
+
+	"nameCarte9" : {
+		"nom" : "Feathered Fan",
+		"nomComplet": "Feathered Fan 朱雀羽扇",
+		"image" : "arme9",
+		"descriptions" : {
+			"description1": {
+				"name":  "Portée : 4",
+				"description": "Lorque vous attaquer avec cette carte vos attaques sont des attaques de feu."
+			}
+		}
+	},
+
+	"nameCarte10" : {
+		"nom" : "Heaven Scorcher Halberd",
+		"nomComplet": "Heaven Scorcher Halberd 方天画戟",
+		"image" : "arme10",
+		"descriptions" : {
+			"description1": {
+				"name": "Portée : 4",
+				"description": "Lorsque le joueur utilise sa dernière carte de sa main pour attaquer, il peut cibler au maximum de deux joueurs supplémentaires (3 joueurs)."
+			}
+		}
+	},
+
+	"nameCarte11" : {
+		"nom" : "Unicorn Bow",
+		"nomComplet": "Unicorn Bow 麒麟弓",
+		"image" : "arme11",
+		"descriptions" : {
+			"description1": {
+				"name":  "Portée : 5",
+				"description": "Lorsque le joueur blesse un autre joueur avec une attaque, l'attaquant peut choisir de défausser un équipement cheval de la cible."
+			}
+		}
+	}
+}

@@ -1,0 +1,49 @@
+{
+	"nameCarte1" : {
+		"nom" : "Bouclier noir",
+		"nomComplet": "Bouclier noir 仁王盾",
+		"image" : "armor1",
+		"descriptions" : {
+			"description1": {
+				"name": "",
+				"description": "Le joueur ne peut pas recevoir d’attaques noires."
+			}
+		}
+	},
+
+	"nameCarte2" : {
+		"nom" : "Huit Trigramme",
+		"nomComplet": "Huit Trigramme 八卦阵",
+		"image" : "armor2",
+		"descriptions" : {
+			"description1": {
+				"name": "",
+				"description": "Si le joueur est la cible d’une attaque, il tire une carte de la pioche, si la carte tirée est rouge alors il esquive l’attaque."
+			}
+		}
+	},
+
+	"nameCarte3" : {
+		"nom" : "Casque d'argent",
+		"nomComplet": "Casque d'argent 白银狮子",
+		"image" : "armor3",
+		"descriptions" : {
+			"description1": {
+				"name": "",
+				"description": "Avec ce casque, le joueur peut être endommagé que d’un seul point de vie. S’il perd cette carte, il gagne alors un point de vie."
+			}
+		}
+	},
+
+	"nameCarte4" : {
+		"nom" : "Armure en bois",
+		"nomComplet": "Armure en bois 藤甲",
+		"image" : "armor4",
+		"descriptions" : {
+			"description1": {
+				"name": "",
+				"description": "Avec cette armure, le joueur ne peut pas être endommagé par des attaques, des éléphants et des pluies de flèches. Seules les attaques de feu endommagent le joueur d’un point de vie supplémentaire."
+			}
+		}
+	}
+}
