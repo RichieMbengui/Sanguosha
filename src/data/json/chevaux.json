@@ -1,6 +1,7 @@
 {
 	"nameCarte1" : {
 		"nom" : "Dà Yuān",
+		"nomComplet" : "Dà Yuān",
 		"image" : "horse1",
 		"descriptions" : {
 			"description1": {
@@ -12,6 +13,7 @@
 
 	"nameCarte2" : {
 		"nom" : "Red Hare",
+		"nomComplet" : "Red Hare",
 		"image" : "horse2",
 		"descriptions" : {
 			"description1": {
@@ -23,6 +25,7 @@
 
 	"nameCarte3" : {
 		"nom" : "Zǐ Xīng",
+		"nomComplet" : "Zǐ Xīng",
 		"image" : "horse3",
 		"descriptions" : {
 			"description1": {
@@ -34,6 +37,7 @@
 
 	"nameCarte4" : {
 		"nom" : "Dí Lú",
+		"nomComplet" : "Dí Lú",
 		"image" : "horse4",
 		"descriptions" : {
 			"description1": {
@@ -45,6 +49,7 @@
 
 	"nameCarte5" : {
 		"nom" : "Huá Liú",
+		"nomComplet" : "Huá Liú",
 		"image" : "horse5",
 		"descriptions" : {
 			"description1": {
@@ -56,6 +61,7 @@
 
 	"nameCarte6" : {
 		"nom" : "The Shadow",
+		"nomComplet" : "The Shadow",
 		"image" : "horse6",
 		"descriptions" : {
 			"description1": {
@@ -67,6 +73,7 @@
 
 	"nameCarte7" : {
 		"nom" : "Zhuǎ Huáng Fēi Diàn",
+		"nomComplet" : "Zhuǎ Huáng Fēi Diàn",
 		"image" : "horse7",
 		"descriptions" : {
 			"description1": {
