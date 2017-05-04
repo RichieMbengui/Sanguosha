@@ -32,7 +32,7 @@ export default class ListCartes extends Component {
             style={styles.container}
             dataSource={this.state.dataSource}
             renderRow= {this._renderRow}
-            renderSeparator={this._renderSeparator}
+            //renderSeparator={this._renderSeparator}
           />
         );
     }
@@ -41,7 +41,7 @@ export default class ListCartes extends Component {
     const { navigate } = this.props.navigation;
       let imageurl =  rowData.image;
        return (
-              <View >
+              <View style={styles.containerStyle}>
                   <TouchableNativeFeedback
                     onPress={() => navigate('All',{carte: rowData})}
                     background={TouchableNativeFeedback.SelectableBackground()}>
@@ -87,6 +87,23 @@ var styles = StyleSheet.create({
   container: {
     backgroundColor: '#F5FCFF',
   },
+
+
+  containerStyle: {
+    elevation: 1,
+    borderWidth: 1,
+    borderRadius: 2,
+    borderColor: '#ddd',
+    borderBottomWidth:0,
+    shadowColor: '#000',
+    shadowOffset:{width:0, height:2},
+    shadowOpacity: 0.1,
+    shadowRadius: 2,
+    marginLeft:5,
+    marginRight:5,
+    marginTop:10,
+  },
+
 
   carte: {
     height: 70,

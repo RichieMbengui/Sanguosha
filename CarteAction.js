@@ -3,7 +3,7 @@
  * https://github.com/facebook/react-native
  * @flow
  */
-import React, { Component, PropTypes } from 'react';
+import React, { Component } from 'react';
 import { View,Button, Text, Navigator, StyleSheet, TouchableNativeFeedback } from 'react-native';
 
 import fileChevaux from './src/data/json/chevaux.json';

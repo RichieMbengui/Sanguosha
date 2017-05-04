@@ -3,7 +3,7 @@
  * https://github.com/facebook/react-native
  * @flow
  */
-import React, { Component, PropTypes } from 'react';
+import React, { Component } from 'react';
 import { View, Text,StyleSheet, Navigator } from 'react-native';
 
 export default class Home extends Component {
