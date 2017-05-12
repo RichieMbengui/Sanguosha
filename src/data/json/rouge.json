@@ -1,331 +1,365 @@
 {
 	"nameCarte1" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
-		"description" : {
-			"description1": "",
-			"description2": "",
-			"description3":""
+		"nom" : "Liú Bèi",
+		"nomComplet": "Liú Bèi 刘备",
+		"image" : "rouge1",
+		"descriptions" : {
+			"description1": {
+				"name": "Gentillesse 仁德",
+				"description": "Il peut donner ses cartes de la main aux autres joueurs. S'il donne plus d'une carte, il récupère 1 point de vie."
+			},
+			"description2": {
+				"name": "Général féroce 激将 Pouvoir du Roi",
+				"description": "Si Liu Bei a besoin d'utiliser une attaque, il peut demander à son royaume de lui en donner une."
+			}
 		}
 	},
 
 	"nameCarte2" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
-		"description" : {
-			"description1": "",
-			"description2": "",
-			"description3":""
+		"nom" : "Guān Yǔ",
+		"nomComplet": "Guān Yǔ 关羽",
+		"image" : "rouge2",
+		"descriptions" : {
+			"description1": {
+				"name": "Pouvoir 1",
+				"description": "Guan Yu peut utiliser n'importe quelle carte rouge comme une attaque."
+			}
 		}
 	},
-
 
 	"nameCarte3" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
-		"description" : {
-			"description1": "",
-			"description2": "",
-			"description3":""
+		"nom" : "Huáng Yuè Yīng",
+		"nomComplet": "Huáng Yuè Yīng 黄月英",
+		"image" : "rouge3",
+		"descriptions" : {
+			"description1": {
+				"name": "Sagesse collecte 集智",
+				"description": "Chaque fois qu'elle utilise une carte magique sans retard (pas les prisons et anti pioche), elle tire immédiatement une carte."
+			},
+			"description2": {
+				"name": "Talent merveilleuse 奇才",
+				"description": "Chaque fois qu'elle utilise une carte braquage, elle n'a pas de distance."
+			}
 		}
 	},
-
 
 	"nameCarte4" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
-		"description" : {
-			"description1": "",
-			"description2": "",
-			"description3":""
+		"nom" : "Huáng Yuè Yīng",
+		"nomComplet": "Huáng Yuè Yīng 黄月英",
+		"image" : "rouge4",
+		"descriptions" : {
+			"description1": {
+				"name": "Vieux mais fort",
+				"description": "Lorsque Huang Zhong attaque un autre personnage au cours de son tour, il peut faire l'attaque imparable si l'une des deux conditions suivantes sont remplies: 1 – La portée de l'attaque de Huang Zhong est supérieure ou égale au nombre de cartes dans la main de la cible. 2 – Le nombre de points de vie de Huang Zhong est inférieur ou égal au nombre de cartes dans la main de la cible."
+			}
 		}
 	},
-
 
 	"nameCarte5" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
-		"description" : {
-			"description1": "",
-			"description2": "",
-			"description3":""
+		"nom" : "Jiāng Wéi",
+		"nomComplet": "Jiāng Wéi 姜维",
+		"image" : "rouge5",
+		"descriptions" : {
+			"description1": {
+				"name": "Susciter 挑嚣",
+				"description": "Une fois pendant son tour, il peut sélectionner n'importe qui, qui peut l'attaquer (dans sa porté) et l'obliger à l'attaquer. Si le joueur ne le fait pas, vous pouvez jeter un de ses carte.Limitée à une fois par tour."
+			},
+			"description2": {
+				"name": "Suivez le Maître 志继",
+				"description": "Lorsque Jiang Wei commence son tour sans cartes en main, il doit soit reprendre une vie ou piocher deux cartes supplémentaire. Ensuite, il diminue sa santé maximale par un et il acquérir définitivement l'astrologie (voir les cartes de la pioche)."
+			}
 		}
 	},
-
-
 
 	"nameCarte6" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
-		"description" : {
-			"description1": "",
-			"description2": "",
-			"description3":""
+		"nom" : "Zhù Róng",
+		"nomComplet": "Zhù Róng 祝融",
+		"image" : "rouge6",
+		"descriptions" : {
+			"description1": {
+				"name": "Éléphant géant",
+				"description": "Chaque fois qu'un joueur joue la carte éléphant, elle n'est pas affectée et elle place la carte dans sa main."
+			},
+			"description2": {
+				"name": "Bord intense",
+				"description": "Chaque fois qu'elle a des dommages Zhu Rong par une autre personne avec une attaque, elle ne peut faire un point de duel avec le personnage. Si elle gagne, elle peut prendre une de ses cartes et la mettre dans sa main."
+			}
 		}
 	},
-
 
 	"nameCarte7" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
-		"description" : {
-			"description1": "",
-			"description2": "",
-			"description3":""
+		"nom" : "Mèng Huò",
+		"nomComplet": "Mèng Huò 孟获",
+		"image" : "rouge7",
+		"descriptions" : {
+			"description1": {
+				"name": "Coupable 祸首",
+				"description": "Meng Huo n'est pas affecté par les éléphants et il est toujours considéré comme la source de tout dommage qu'il cause."
+			},
+			"description2": {
+				"name": "Résurgence 再起 ",
+				"description": "Au début de son tour, si Meng Huo n'est pas en pleine santé, il peut piocher et retourne X cartes, soit X la différence entre son état de santé actuel et maximum. Pour chaque carte cœur retournée, Meng Huo récupère un point de vie. Les cartes cœur sont éliminées et le reste va dans sa main."
+			}
 		}
 	},
-
 
 	"nameCarte8" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
-		"description" : {
-			"description1": "",
-			"description2": "",
-			"description3":""
+		"nom" : "Elder Zhūgě Liàng",
+		"nomComplet": "Elder Zhūgě Liàng 暮年诸葛亮",
+		"image" : "rouge8",
+		"descriptions" : {
+			"description1": {
+				"name": "Visionnaire",
+				"description": "Au début de son tour, Zhuge Liang tire X cartes de la pioche, soit le nombre de joueurs encore en vie ou 5 le nombre maximum. Il peut alors modifier l’ordre des cartes et les remettre au-dessus ou en-dessous de la pioche."
+			},
+			"description2": {
+				"name": "invulnérable",
+				"description": "Quand Zhuge Liang n'a pas de cartes en main, il ne peut pas être la cible d'une attaque ou duel."
+			}
 		}
 	},
-
 
 	"nameCarte9" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
-		"description" : {
-			"description1": "",
-			"description2": "",
-			"description3":""
+		"nom" : "Younger Zhū Gě Liàng",
+		"nomComplet": "Younger Zhū Gě Liàng 卧龙诸葛亮",
+		"image" : "rouge9",
+		"descriptions" : {
+			"description1": {
+				"name": "Huit tableaux 八阵 ",
+				"description": "Si Zhuge Liang n’a pas d'armure, il bénéficie de l'armure du ying yong."
+			},
+			"description2": {
+				"name": "Stratégie de feu 火计",
+				"description": "Il peut utiliser n'importe quelle carte rouge de sa main comme une carte flamme."
+			},
+			"description3": {
+				"name": "Voir au travers看破",
+				"description": "Il peut utiliser n'importe quelle carte noire de sa main comme une carte d’annulation."
+			}
 		}
 	},
-
 
 	"nameCarte10" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
-		"description" : {
-			"description1": "",
-			"description2": "",
-			"description3":""
+		"nom" : "Zhào Yún",
+		"nomComplet": "Zhào Yún 赵云",
+		"image" : "rouge10",
+		"descriptions" : {
+			"description1": {
+				"name": "inversement",
+				"description": "il peut utiliser des attaques comme des esquives et inversement."
+			}
 		}
 	},
-
 
 	"nameCarte11" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
-		"description" : {
-			"description1": "",
-			"description2": "",
-			"description3":""
+		"nom" : "Zhāng Fēi",
+		"nomComplet": "Zhāng Fēi 张飞",
+		"image" : "rouge11",
+		"descriptions" : {
+			"description1": {
+				"name": "Pouvoir 1",
+				"description": "Zhang Fei n’a pas de restrictions sur le nombre d’attaques durant son tour."
+			}
 		}
 	},
-
 
 	"nameCarte12" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
-		"description" : {
-			"description1": "",
-			"description2": "",
-			"description3":""
+		"nom" : "Mǎ Chāo",
+		"nomComplet": "Mǎ Chāo 马超",
+		"image" : "rouge12",
+		"descriptions" : {
+			"description1": {
+				"name": "Equitation 马术",
+				"description": "Les autres joueurs le voient à une distance de plus 1."
+			},
+			"description2": {
+				"name": "Fer Calvaire 铁骑",
+				"description": "Lorsque Ma Chao attaque un joueur, il peut retourner une carte de vérification. Si, c’est rouge, l'attaque est imparable."
+			}
 		}
 	},
-
-
 
 	"nameCarte13" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
-		"description" : {
-			"description1": "",
-			"description2": "",
-			"description3":""
+		"nom" : "Liú Shàn",
+		"nomComplet": "Liú Shàn 刘禅",
+		"image" : "rouge13",
+		"descriptions" : {
+			"description1": {
+				"name": "Plaisir 享乐",
+				"description": "Si un joueur attaque Liu Shan, il doit combiner son attaque avec une carte basique pour l’endommager."
+			},
+			"description2": {
+				"name": "Décentralisation 放权",
+				"description": "Il peut choisir d'ignorer sa phase d'action. A la fin de son tour, il se défausse d'une carte de sa main. Il peut choisir un joueur pour jouer deux fois de suite."
+			},
+			"description3": {
+				"name": "Sembler insensé 若愚 Pouvoir du Roi",
+				"description": "Lorsqu’il a le moins de santé au début de son tour, il augmente sa santé maximum de un, et récupère une vie, et de façon permanente gagne féroce général (demande au membre du royaume rouge une attaque)."
+			}
 		}
 	},
-
 
 	"nameCarte14" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
-		"description" : {
-			"description1": "",
-			"description2": "",
-			"description3":""
+		"nom" : "Mǎ Sù",
+		"nomComplet": "Mǎ Sù 马谡",
+		"image" : "rouge14",
+		"descriptions" : {
+			"description1": {
+				"name": "Gagner les cœurs 心战",
+				"description": "Une fois par tour, si Ma Su n’a plus de cartes dans sa main et que sa santé est maximale, il peut regarder les trois cartes du dessus de la pioche. Il peut afficher les cœurs, les mettre dans sa main, et réorganiser le reste."
+			},
+			"description2": {
+				"name": "Larmes Bottomless 挥泪",
+				"description": "Le joueur qui tue Ma Su doit se défausser toutes ses cartes."
+			}
 		}
 	},
-
 
 	"nameCarte15" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
-		"description" : {
-			"description1": "",
-			"description2": "",
-			"description3":""
+		"nom" : "Wèi Yán",
+		"nomComplet": "Wèi Yán 魏延",
+		"image" : "rouge15",
+		"descriptions" : {
+			"description1": {
+				"name": "Esprit violent 狂骨 ",
+				"description": "Pour chaque dégât que Wei Yan cause à un joueur de sa portée, il reprend une vie."
+			}
 		}
 	},
-
 
 	"nameCarte16" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
-		"description" : {
-			"description1": "",
-			"description2": "",
-			"description3":""
+		"nom" : "Fǎ Zhèng",
+		"nomComplet": "Fǎ Zhèng 法正",
+		"image" : "rouge16",
+		"descriptions" : {
+			"description1": {
+				"name": "Grudge 恩怨",
+				"description": "Si un joueur endommage Fa Zheng, il doit lui donner une carte cœur. S’il ne le fait pas, il perd un point de vie. Quand un joueur guérit Fa Zheng, tous deux tirent une carte."
+			},
+			"description2": {
+				"name": "Dazzle 眩惑",
+				"description": "Une fois dans son tour, il peut donner à un autre joueur une carte cœur de sa main. Ensuite, il peut prendre une carte du joueur et la donner à n’importe quel autre joueur sauf lui. limité à 1."
+			}
 		}
 	},
-
 
 	"nameCarte17" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
-		"description" : {
-			"description1": "",
-			"description2": "",
-			"description3":""
+		"nom" : "Páng Tǒng",
+		"nomComplet": "Páng Tǒng 庞统",
+		"image" : "rouge17",
+		"descriptions" : {
+			"description1": {
+				"name": "Manille",
+				"description": "Pang Tong peut utiliser n'importe quelle carte trèfle de sa main comme une chaîne."
+			},
+			"description2": {
+				"name": "Nirvana",
+				"description": "Une fois dans la partie, quand Pang Tong est sur le point de mourir, il peut choisir de jeter toutes ses cartes et piocher trois cartes. Il revient alors avec trois points de vie."
+			}
 		}
 	},
-
 
 	"nameCarte18" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
-		"description" : {
-			"description1": "",
-			"description2": "",
-			"description3":""
+		"nom" : "Liao Hua",
+		"nomComplet": "Liao Hua 廖化",
+		"image" : "rouge18",
+		"descriptions" : {
+			"description1": {
+				"name": "Vanguard  当先 ",
+				"description": "Au début de son tour, Liao Hua a une phase d'action supplémentaire."
+			},
+			"description2": {
+				"name": "Aspiration  伏枥 Utilisation unique",
+				"description": "Quand Liao Hua est sur le point de mourir, il peut choisir de retourner sa carte personnage et revenir avec des unités de X de la santé, X étant le nombre de royaume encore dans le jeu."
+			}
 		}
 	},
-
 
 	"nameCarte19" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
-		"description" : {
-			"description1": "",
-			"description2": "",
-			"description3":""
+		"nom" : "Guan Xing et Zhang Bao",
+		"nomComplet": "Guan Xing et Zhang Bao 关兴&张苞",
+		"image" : "rouge19",
+		"descriptions" : {
+			"description1": {
+				"name": "Âmes paternels 父魂",
+				"description": "Guan Xing et Zhang Bao peuvent sauter la phase de pioche. ils retournent et montrent les deux cartes de la pioche. Si elles ne sont pas de la même couleur, ils acquièrent «Roar» (attaque illimité) et 'Lutte contre Saint' (carte rouge sont des attaques) pour le reste de leur tour. ils gardent les cartes qu'ils ont retournés."
+			}
 		}
 	},
-
 
 	"nameCarte20" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
-		"description" : {
-			"description1": "",
-			"description2": "",
-			"description3":""
+		"nom" : "Mǎ Dài",
+		"nomComplet": "Mǎ Dài 马岱",
+		"image" : "rouge20",
+		"descriptions" : {
+			"description1": {
+				"name": "Equitation马术",
+				"description": "Ma Dai a toujours un -1 bonus."
+			},
+			"description2": {
+				"name": "Sneak Attack 潜袭 (si pas de coeur)",
+				"description": "u début de son tour, Ma Dai peut retourner une carte de jugement puis sélectionnez n'importe quel caractère à sa portée physique. La cible ne peut pas utiliser les cartes de cette couleur pour le reste du tour."
+			},
+			"description3": {
+				"name": "Sneak Attack 潜袭 (avec le coeur)",
+				"description": "Chaque fois que des dommages-intérêts Ma Dai quelqu'un à portée d'une attaque, il peut choisir de retourner un jugement. Si ce n'est pas le coeur, le niveau de vie maximum de la cible est réduite d'un à la place d'un dommage."
+			}
 		}
 	},
 
-
 	"nameCarte21" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
-		"description" : {
-			"description1": "",
-			"description2": "",
-			"description3":""
+		"nom" : "Jian Yong",
+		"nomComplet": "Jian Yong 简雍",
+		"image" : "rouge21",
+		"descriptions" : {
+			"description1": {
+				"name": "Persuader 巧说 ",
+				"description": "Au début de sa phase d'action, Jian Yong peut rivaliser avec n'importe quel autre caractère. S'il gagne, il peut augmenter ou diminuer le nombre de cibles de son prochain outil de base ou non retard d'un pour ce tour et il n'a pas de restrictions de porté. S'il perd, il ne peut pas utiliser les cartes magique pour le reste de son tour."
+			},
+			"description2": {
+				"name": "Ignorer Formalités 纵适",
+				"description": "Chaque fois que Jian Yong subit un duel, il peut garder la carte duel du perdant."
+			}
 		}
 	},
 
 	"nameCarte22" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
-		"description" : {
-			"description1": "",
-			"description2": "",
-			"description3":""
+		"nom" : "Liu Feng",
+		"nomComplet": "Liu Feng 刘封",
+		"image" : "rouge22",
+		"descriptions" : {
+			"description1": {
+				"name": "Héritier Fallen 陷嗣",
+				"description": "Au début de son tour, Liu Feng peut choisir jusqu'à deux autres joueurs. Il prend une carte de chacun et les met sur sa carte personnage. Ce sont des trahisons. Les autres personne doivent se défausser de deux Trahisons pour attaquer Liu Feng."
+			}
 		}
 	},
-
 
 	"nameCarte23" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
-		"description" : {
-			"description1": "",
-			"description2": "",
-			"description3":""
+		"nom" : "Guan Ping",
+		"nomComplet": "Guan Ping 关平",
+		"image" : "rouge23",
+		"descriptions" : {
+			"description1": {
+				"name": "Dragon Roar 龙吟",
+				"description": "Chaque fois qu'un joueur attaque, Guan Ping peut défausser une carte pour permettre à ce joueur d'attaquer à nouveau durant ce tour. Si Guan Ping active cette capacité en réponse à une attaque rouge, il pioche une carte."
+			}
 		}
 	},
-
 
 	"nameCarte24" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
-		"description" : {
-			"description1": "",
-			"description2": "",
-			"description3":""
-		}
-	},
-
-	"nameCarte25" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
-		"description" : {
-			"description1": "",
-			"description2": "",
-			"description3":""
-		}
-	},
-
-	"nameCarte26" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
-		"description" : {
-			"description1": "",
-			"description2": "",
-			"description3":""
-		}
-	},
-
-	"nameCarte27" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
-		"description" : {
-			"description1": "",
-			"description2": "",
-			"description3":""
-		}
-	},
-	"nameCarte28" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
-		"description" : {
-			"description1": "",
-			"description2": "",
-			"description3":""
+		"nom" : "Xu Shu",
+		"nomComplet": "Xu Shu 徐庶",
+		"image" : "rouge24",
+		"descriptions" : {
+			"description1": {
+				"name": "Speechless 无言",
+				"description": "Tout dommage causé par, ou reçus par une cartes de magique est annulé"
+			},
+			"description2": {
+				"name": "Recommandation  举荐",
+				"description": "Lorsque la phase de fin de votre tour commence, vous pouvez défausser 1 carte non-base (à savoir: Outils cartes, cartes d'équipement, etc). Si vous le faites, vous laissez un autre joueur choisit une des 3 actions possibles suivantes: 1. Piochez 2 cartes.	2. Regain 1 unité de santé. 3. Retourner sur la carte de caractère tel qu'il fait face à la droite, et tourner dans le sens vertical (c'est à dire: les chaînes sont brisées)"
+			}
 		}
 	}
 }

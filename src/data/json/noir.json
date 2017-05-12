@@ -1,560 +1,268 @@
 {
 	"nameCarte1" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
+		"nom" : "Yuán Shào",
+		"nomComplet": "Yuán Shào 袁绍",
+		"image" : "noir1",
 		"descriptions" : {
 			"description1": {
-				"name": "",
-				"description": ""
+				"name": "Grève aléatoire 乱击 ",
+				"description": "Il peut utiliser deux cartes en main de la même couleur pour provoquer une pluie de flèches."
 			},
 			"description2": {
-				"name": "",
-				"description": ""
-			},
-			"description3": {
-				"name": "",
-				"description": ""
+				"name": "Bloodline 血裔 Pouvoir du Roi",
+				"description": "Sa limite de carte maximale est doublée selon les joueurs du même royaume encore en vie."
 			}
 		}
 	},
 
 	"nameCarte2" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
+		"nom" : "Chén Gōng",
+		"nomComplet": "Chén Gōng 陈宫",
+		"image" : "noir2",
 		"descriptions" : {
 			"description1": {
-				"name": "",
-				"description": ""
+				"name": "Brillant 明Scheme策",
+				"description": "Pendant votre phase d'action, vous pouvez donner une carte d'équipement ou une attaque à n'importe quel autre joueur. Le destinataire doit alors choisir entre une des deux options pour vous.<br/> 1. Cette action vous permet d'utilisé une attaque contre un autre joueur de votre choix dans la gamme de l'attaque du destinataire.<br/> 2. piocher une carte de la pioche. Limité à une seule utilisation par tour."
 			},
 			"description2": {
-				"name": "",
-				"description": ""
-			},
-			"description3": {
-				"name": "",
-				"description": ""
+				"name": "Retard cérébrale 智迟",
+				"description": "Chaque fois que vous recevez des dommages pendant le tour d'un autre joueur, toute attaque ou cartes outil (sauf l'outil temporisée cartes) n'ont aucun effet sur ​​vous jusqu'à ce que se termine son tour."
 			}
 		}
 	},
 
 	"nameCarte3" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
+		"nom" : "Diāo Chán",
+		"nomComplet": "Diāo Chán 貂蝉",
+		"image" : "noir3",
 		"descriptions" : {
 			"description1": {
-				"name": "",
-				"description": ""
+				"name": "Semer la discorde 离间 ",
+				"description": "Une fois par tour, elle peut jeter n'importe quelle carte de sa main et choisir deux personnages masculins pour provoquer un duel."
 			},
 			"description2": {
-				"name": "",
-				"description": ""
-			},
-			"description3": {
-				"name": "",
-				"description": ""
+				"name": "Eclipse de la Lune 闭月",
+				"description": "Après sa phase de défausse, elle pioche une carte et la met dans sa main."
 			}
 		}
 	},
 
 	"nameCarte4" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
+		"nom" : "Huà Tuó",
+		"nomComplet": "Huà Tuó 华佗",
+		"image" : "noir4",
 		"descriptions" : {
 			"description1": {
-				"name": "",
-				"description": ""
+				"name": "First Aid 急救",
+				"description": "En dehors de son tour, Hua Tuo peut utiliser n'importe quelle carte rouge comme une pêche."
 			},
 			"description2": {
-				"name": "",
-				"description": ""
-			},
-			"description3": {
-				"name": "",
-				"description": ""
+				"name": "Vésicules vertes 青囊",
+				"description": "Une fois par tour, Hua Tuo peut jeter n'importe quelle carte de sa main pour guérir n'importe quel joueur."
 			}
 		}
 	},
 
 	"nameCarte5" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
+		"nom" : "Lǚ Bù",
+		"nomComplet": "Lǚ Bù 吕布",
+		"image" : "noir5",
 		"descriptions" : {
 			"description1": {
-				"name": "",
-				"description": ""
-			},
-			"description2": {
-				"name": "",
-				"description": ""
-			},
-			"description3": {
-				"name": "",
-				"description": ""
+				"name": "Matchless 无双",
+				"description": "Lorsque il attaque un joueur, il doit utiliser deux cartes « esquive » pour esquiver l'attaque. Lorsqu'il provoque un duel, le joueur doit utiliser deux cartes « attaque » à chaque tour du duel."
 			}
 		}
 	},
 
 	"nameCarte6" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
+		"nom" : "Páng Dé",
+		"nomComplet": "Páng Dé 庞德",
+		"image" : "noir6",
 		"descriptions" : {
 			"description1": {
-				"name": "",
-				"description": ""
+				"name": "Equitation 马术",
+				"description": "Les autres joueurs le voient à une distance de plus 1."
 			},
 			"description2": {
-				"name": "",
-				"description": ""
-			},
-			"description3": {
-				"name": "",
-				"description": ""
+				"name": "Sudden Attack 猛进",
+				"description": "Chaque fois qu'il attaque et que la cible utilise une carte « esquive », il peut choisir de détruire une carte de la main de la cible."
 			}
 		}
 	},
 
 	"nameCarte7" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
+		"nom" : "Cài Wén Jī",
+		"nomComplet": "Cài Wén Jī 蔡文姬",
+		"image" : "noir7",
 		"descriptions" : {
 			"description1": {
-				"name": "",
-				"description": ""
+				"name": "Lament 悲歌 ",
+				"description": "Chaque fois qu'un joueur est endommagé par une attaque, elle peut jeter n'importe quelle carte. La victime retourne ensuite une carte de vérification : Cœur : la victime retrouve une vie.	Carreau : la victime tire deux cartes. Trèfle : l’attaquant défausse deux cartes de sa main.	Pique : l’attaquant retourne sa carte « personnage »"
 			},
 			"description2": {
-				"name": "",
-				"description": ""
-			},
-			"description3": {
-				"name": "",
-				"description": ""
+				"name": "Navré 断肠",
+				"description": "Quand un joueur la tue, le joueur perd ses pouvoirs pour le reste de la partie."
 			}
 		}
 	},
 
 	"nameCarte8" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
+		"nom" : "Gāo Shùn",
+		"nomComplet": "Gāo Shùn 高顺",
+		"image" : "noir8",
 		"descriptions" : {
 			"description1": {
-				"name": "",
-				"description": ""
+				"name": "Embuscade 陷阵",
+				"description": "Une fois par tour, il peut faire un point de duel avec n'importe quel autre joueur. S'il gagne, il n'a pas de limite d'attaque contre sa cible, la portée et l'armure de la cible sont ignorées. Si il perd, il ne peut pas attaquer durant le tour."
 			},
 			"description2": {
-				"name": "",
-				"description": ""
-			},
-			"description3": {
-				"name": "",
-				"description": ""
+				"name": "Interdire de boire 禁酒 ",
+				"description": "Toutes les cartes « vin » de Gao Shun sont des cartes « attaque »."
 			}
 		}
 	},
 
 	"nameCarte9" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
+		"nom" : "Jiǎ Xǔ",
+		"nomComplet": "Jiǎ Xǔ 贾诩",
+		"image" : "noir9",
 		"descriptions" : {
 			"description1": {
-				"name": "",
-				"description": ""
+				"name": "Complète Tuer 完杀",
+				"description": "Pendant votre tour, à l'exception de vous-même, les personnes qui sont sur ​​le seuil de la mort (1 point de vie ou moins) peuvent utiliser pêche."
 			},
 			"description2": {
-				"name": "",
-				"description": ""
+				"name": "Dérangement 乱武",
+				"description": "Une fois par partie, Jia Xu peut forcer tous les autres joueurs à attaquer un joueur de leur porteée. Si un joueur ne le fait pas, il perd un point de vie."
 			},
 			"description3": {
-				"name": "",
-				"description": ""
+				"name": "Rideau 帷幕",
+				"description": "Jia Xu ne peut pas être ciblé par une carte « équipement » noire."
 			}
 		}
 	},
 
 	"nameCarte10" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
+		"nom" : "Yán Liáng & Wén Chǒu",
+		"nomComplet": "Yán Liáng & Wén Chǒu 颜良文丑",
+		"image" : "noir10",
 		"descriptions" : {
 			"description1": {
-				"name": "",
-				"description": ""
-			},
-			"description2": {
-				"name": "",
-				"description": ""
-			},
-			"description3": {
-				"name": "",
-				"description": ""
+				"name": "Heroes duel 双雄",
+				"description": "Au début de leur tour, Yan Liang et Wen Chou peuvent choisir de ne pas piocher mais effectuent un jugement. La carte retournée est mise dans leur main. Pour le reste de leur tour, toutes les cartes en main de couleur opposée à la carte de jugement peuvent être utilisées comme une carte duel."
 			}
 		}
 	},
 
 	"nameCarte11" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
+		"nom" : "Yú Jí",
+		"nomComplet": "Yú Jí 于吉",
+		"image" : "noir11",
 		"descriptions" : {
 			"description1": {
-				"name": "",
-				"description": ""
-			},
-			"description2": {
-				"name": "",
-				"description": ""
-			},
-			"description3": {
-				"name": "",
-				"description": ""
+				"name": "Dérouter 蛊惑 ",
+				"description": "Chaque fois que Yu Ji veut utiliser un outil non-retard ou une carte de base, il peut jouer n'importe quel carte face cachée en énonçant la fonction de son choix. Ensuite n’importe quel joueur peut choisir de ne pas le croire. Si tout le monde croit Yu Ji, la carte est retournée et entre en jeu comme énoncé. Si des joueurs ont un doute, la carte est retournée. Si Yu Ji dit la vérité, tous les joueurs qui doutaient perdent un point de vie. Si Yu Ji ne disait pas la vérité, les joueurs qui doutaient piochent une carte. Si un joueur doutait et que Yu Ji a dit la vérité et la carte est un coeur, la carte passe en effet. Sinon, la carte est défaussée."
 			}
 		}
 	},
 
 	"nameCarte12" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
+		"nom" : "Zhāng Jiǎo",
+		"nomComplet": "Zhāng Jiǎo 张角",
+		"image" : "noir12",
 		"descriptions" : {
 			"description1": {
-				"name": "",
-				"description": ""
+				"name": "Lightning Strike 雷击",
+				"description": "Chaque fois que Zhang Jiao joue une esquive, il peut choisir n'importe quel joueur de porter et lui faire piocher une carte de « jugement ». Si c'est un pique, il perd deux points de vie."
 			},
 			"description2": {
-				"name": "",
-				"description": ""
+				"name": "Dark Magic 鬼道",
+				"description": "Après une carte de « jugement » retourné, Zhang Jiao peut jeter n'importe quelle carte noire de sa main pour remplacer la carte de jugement. La carte qui a été retournée va dans sa main."
 			},
 			"description3": {
-				"name": "",
-				"description": ""
+				"name": "Amber Sky 黄天  Pouvoir du Roi",
+				"description": "Les joueurs du royaume noir peuvent donner une carte « esquive » ou « foudre » pendant leur tour."
 			}
 		}
 	},
 
 	"nameCarte13" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
+		"nom" : "Zuǒ Cí",
+		"nomComplet": "Zuǒ Cí 左慈",
+		"image" : "noir13",
 		"descriptions" : {
 			"description1": {
-				"name": "",
-				"description": ""
+				"name": "Incarnation 化身",
+				"description": "Au début du jeu, Zuo Ci pioche deux cartes de personnages inutilisés. Ces cartes sont placées face cachée. Il sélectionne ensuite une capacité d'un de ces personnages et met la carte face visible. Il acquiert alors la capacité du personnage choisi. Au début et à la fin de chaque tour, il peut choisir un nouveau personnage. Il ne peut pas acquérir la capacité d’un roi, d’utiliser uniquement un personnage ou la capacité d’éveil."
 			},
 			"description2": {
-				"name": "",
-				"description": ""
-			},
-			"description3": {
-				"name": "",
-				"description": ""
+				"name": "Nouvelle vie 新生 ",
+				"description": "Chaque point de vie perdu, il acquiert un autre personnage."
 			}
 		}
 	},
 
 	"nameCarte14" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
+		"nom" : "Liú Biǎo",
+		"nomComplet": "Liú Biǎo 刘表",
+		"image" : "noir14",
 		"descriptions" : {
 			"description1": {
-				"name": "",
-				"description": ""
+				"name": "La préservation de soi 自守",
+				"description": "Liu Biao peut tirer X cartes supplémentaires, X étant la différence entre son état de santé actuel et maximal. Il saute alors sa phase d'action."
 			},
 			"description2": {
-				"name": "",
-				"description": ""
-			},
-			"description3": {
-				"name": "",
-				"description": ""
+				"name": "Chambre des droits 宗室",
+				"description": "La limite de la main de Liu Biao est augmenté par le nombre de royaume encore en jeu."
 			}
 		}
 	},
 
 	"nameCarte15" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
+		"nom" : "Hua Xiong",
+		"nomComplet": "Hua Xiong 华 雄",
+		"image" : "noir15",
 		"descriptions" : {
 			"description1": {
-				"name": "",
-				"description": ""
-			},
-			"description2": {
-				"name": "",
-				"description": ""
-			},
-			"description3": {
-				"name": "",
-				"description": ""
+				"name": "Reckless恃勇",
+				"description": "Chaque dommage causés par une attaque ou attaque avec vin, la limite maximale de la santé est réduit par 1."
 			}
 		}
 	},
 
 	"nameCarte16" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
+		"nom" : "Li Ru",
+		"nomComplet": "Li Ru 李儒",
+		"image" : "noir16",
 		"descriptions" : {
 			"description1": {
-				"name": "",
-				"description": ""
+				"name": "Vanishing Act 绝策",
+				"description": "A la fin de son tour, Li Ru peut endommager de 1 n'importe quel joueur qui n'a pas de cartes en main."
 			},
 			"description2": {
-				"name": "",
-				"description": ""
+				"name": "Extermination 灭计",
+				"description": "Une fois par tour, Li Ru peut montrer une carte d'outil noir et le mettre sur la pioche. Il choisit alors un autre joueur avec des cartes de la main. Ils doivent se défausser d'une carte magique ou deux cartes basique."
 			},
 			"description3": {
-				"name": "",
-				"description": ""
+				"name": "Brûler la ville 焚城",
+				"description": "Une fois par partie, Li Ru obliger les autres joueurs à défausser au moins X cartes ou prendre deux dégâts de feu. Le premier joueur dans l'ordre doivent soit se défausser d'une carte ou de prendre deux des dégâts de feu. S'ils rejettent, le joueur suivant doit alors se défausser de deux cartes ou prendre deux dégâts de feu. Le compte se met à 1 quand un joueur a pris le dommage de feu."
 			}
 		}
 	},
 
 	"nameCarte17" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
+		"nom" : "Empress Fu 伏皇后",
+		"nomComplet": "Empress Fu",
+		"image" : "noir17",
 		"descriptions" : {
 			"description1": {
-				"name": "",
-				"description": ""
+				"name": "Soucieux peur 惴恐",
+				"description": "Si elle est endommagé par un autre joueur, elle peut rivaliser avec ce joueur. Si elle gagne, la cible ne peut pas utiliser les cartes qui affectent d'autres personnes. Si elle perd, la distance de la cible est elle est réduit de 1. Les deux cas, dure jusqu'à la fin du tour."
 			},
 			"description2": {
-				"name": "",
-				"description": ""
-			},
-			"description3": {
-				"name": "",
-				"description": ""
-			}
-		}
-	},
-
-	"nameCarte18" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
-		"descriptions" : {
-			"description1": {
-				"name": "",
-				"description": ""
-			},
-			"description2": {
-				"name": "",
-				"description": ""
-			},
-			"description3": {
-				"name": "",
-				"description": ""
-			}
-		}
-	},
-
-	"nameCarte19" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
-		"descriptions" : {
-			"description1": {
-				"name": "",
-				"description": ""
-			},
-			"description2": {
-				"name": "",
-				"description": ""
-			},
-			"description3": {
-				"name": "",
-				"description": ""
-			}
-		}
-	},
-
-	"nameCarte20" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
-		"descriptions" : {
-			"description1": {
-				"name": "",
-				"description": ""
-			},
-			"description2": {
-				"name": "",
-				"description": ""
-			},
-			"description3": {
-				"name": "",
-				"description": ""
-			}
-		}
-	},
-
-	"nameCarte21" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
-		"descriptions" : {
-			"description1": {
-				"name": "",
-				"description": ""
-			},
-			"description2": {
-				"name": "",
-				"description": ""
-			},
-			"description3": {
-				"name": "",
-				"description": ""
-			}
-		}
-	},
-
-	"nameCarte22" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
-		"descriptions" : {
-			"description1": {
-				"name": "",
-				"description": ""
-			},
-			"description2": {
-				"name": "",
-				"description": ""
-			},
-			"description3": {
-				"name": "",
-				"description": ""
-			}
-		}
-	},
-
-	"nameCarte23" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
-		"descriptions" : {
-			"description1": {
-				"name": "",
-				"description": ""
-			},
-			"description2": {
-				"name": "",
-				"description": ""
-			},
-			"description3": {
-				"name": "",
-				"description": ""
-			}
-		}
-	},
-
-	"nameCarte24" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
-		"descriptions" : {
-			"description1": {
-				"name": "",
-				"description": ""
-			},
-			"description2": {
-				"name": "",
-				"description": ""
-			},
-			"description3": {
-				"name": "",
-				"description": ""
-			}
-		}
-	},
-
-	"nameCarte25" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
-		"descriptions" : {
-			"description1": {
-				"name": "",
-				"description": ""
-			},
-			"description2": {
-				"name": "",
-				"description": ""
-			},
-			"description3": {
-				"name": "",
-				"description": ""
-			}
-		}
-	},
-
-	"nameCarte26" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
-		"descriptions" : {
-			"description1": {
-				"name": "",
-				"description": ""
-			},
-			"description2": {
-				"name": "",
-				"description": ""
-			},
-			"description3": {
-				"name": "",
-				"description": ""
-			}
-		}
-	},
-
-	"nameCarte27" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
-		"descriptions" : {
-			"description1": {
-				"name": "",
-				"description": ""
-			},
-			"description2": {
-				"name": "",
-				"description": ""
-			},
-			"description3": {
-				"name": "",
-				"description": ""
-			}
-		}
-	},
-
-	"nameCarte28" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
-		"descriptions" : {
-			"description1": {
-				"name": "",
-				"description": ""
-			},
-			"description2": {
-				"name": "",
-				"description": ""
-			},
-			"description3": {
-				"name": "",
-				"description": ""
+				"name": "Plaider 求援",
+				"description": "Quand elle est attaquée, elle peut cibler n'importe quel troisième joueur. Ce joueur lui doit donner un raté ou il devient une cible supplémentaire à l'attaque."
 			}
 		}
 	}

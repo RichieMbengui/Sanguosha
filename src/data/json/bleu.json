@@ -2,330 +2,352 @@
 	"nameCarte1" : {
 		"nom" : "Cáo Cāo",
 		"nomComplet": "Cáo Cāo 曹操",
-		"image" : "",
-		"description" : {
-			"description1": "Quand il est endommagé par une carte, il peut prendre la carte qu'il a endommagé et la mettre dans sa main.",
-			"description2": "S'il a besoin d'utiliser une esquive, un membre de son royaume peut lui en donner.",
-			"description3":""
+		"image" : "bleu1",
+		"descriptions" : {
+			"description1": {
+				"name": "Héros du Mal 奸雄",
+				"description": "Quand il est endommagé par une carte, il peut prendre la carte qu'il a endommagé et la mettre dans sa main."
+			},
+			"description2": {
+				"name": "Escort 护驾 roi Capacité",
+				"description": "S'il a besoin d'utiliser une esquive, un membre de son royaume peut lui en donner."
+			}
 		}
 	},
 
 	"nameCarte2" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
-		"description" : {
-			"description1": "",
-			"description2": "",
-			"description3":""
+		"nom" : "Cáo Pī",
+		"nomComplet": "Cáo Pī 曹丕",
+		"image" : "bleu2",
+		"descriptions" : {
+			"description1": {
+				"name": "Rammasseur",
+				"description": "Quand un autre personnage meurt, il peut choisir de prendre toutes ses cartes."
+			},
+			"description2": {
+				"name": "Exile 放逐",
+				"description": "Lorsqu'il est endommagé, il peut choisir n'importe quelle personne et le forcer à retourner sa carte personnage ensuite cette personne tire alors X cartes, X étant la différence entre le niveau de vie maximum de Cao Pi et son niveau de santé actuel après que le dommage a été infligé."
+			},
+			"description3": {
+				"name": "Exaltation 颂威 Roi Capacité",
+				"description": "Quand un personnage du royaume bleu retourne une carte de jugement noir, ils peuvent permettre Cao Pi de piocheer une carte."
+			}
 		}
 	},
-
 
 	"nameCarte3" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
-		"description" : {
-			"description1": "",
-			"description2": "",
-			"description3":""
+		"nom" : "Cáo Rén",
+		"nomComplet": "Cáo Rén 曹仁",
+		"image" : "bleu3",
+		"descriptions" : {
+			"description1": {
+				"name": "Enraciner 据守",
+				"description": "Après sa phase de défausse, il peut choisir de retourner sa carte personnage et piocher trois cartes."
+			}
 		}
 	},
-
 
 	"nameCarte4" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
-		"description" : {
-			"description1": "",
-			"description2": "",
-			"description3":""
+		"nom" : "Diǎn Wěi",
+		"nomComplet": "Diǎn Wěi 典韦",
+		"image" : "bleu4",
+		"descriptions" : {
+			"description1": {
+				"name": "Assaut 强袭",
+				"description": "Une fois pendant son tour, il peut causer un dégâts à n'importe qui de sa portée d'attaque soit en défaussant une carte d'arme ou de prendre une vie."
+			}
 		}
 	},
-
 
 	"nameCarte5" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
-		"description" : {
-			"description1": "",
-			"description2": "",
-			"description3":""
+		"nom" : "Guō Jiā",
+		"nomComplet": "Guō Jiā 郭嘉",
+		"image" : "bleu5",
+		"descriptions" : {
+			"description1": {
+				"name": "L'envie de ciel 天妒",
+				"description": "Chaque fois qu'il retourne une carte de verification, il met la carte dans sa main."
+			},
+			"description2": {
+				"name": "Décerné Rouse 遣计",
+				"description": "Pour chaque unité de dégâts que Guo Jia reçoit, il pioche deux cartes. Il peut alors distribuer ces cartes comme il veut entre les personnages dans le jeu ou les garder."
+			}
 		}
 	},
-
-
 
 	"nameCarte6" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
-		"description" : {
-			"description1": "",
-			"description2": "",
-			"description3":""
+		"nom" : "Sī Mǎ Yì",
+		"nomComplet": "Sī Mǎ Yì 司马懿",
+		"image" : "bleu6",
+		"descriptions" : {
+			"description1": {
+				"name": "Commentaires 反馈",
+				"description": "Quand un joueur lui cause un dommage, il peut choisir de prendre une de ses cartes et de le placer dans sa main."
+			},
+			"description2": {
+				"name": "Diable 鬼才",
+				"description": "Lors d'une carte de vérification retourné, Sima Yi peut se défausser d'une de ses cartes en main. Cette carte devient alors la nouvelle carte de vérification."
+			}
 		}
 	},
-
 
 	"nameCarte7" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
-		"description" : {
-			"description1": "",
-			"description2": "",
-			"description3":""
+		"nom" : "Dèng Ài",
+		"nomComplet": "Dèng Ài 邓艾",
+		"image" : "bleu7",
+		"descriptions" : {
+			"description1": {
+				"name": "Prochainement",
+				"description": "."
+			}
 		}
 	},
-
 
 	"nameCarte8" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
-		"description" : {
-			"description1": "",
-			"description2": "",
-			"description3":""
+		"nom" : "Xià Hóu Dūn",
+		"nomComplet": "Xià Hóu Dūn 夏侯惇",
+		"image" : "bleu8",
+		"descriptions" : {
+			"description1": {
+				"name": "Inflexible",
+				"description": "Quand il est endommagé par quelqu'un, il peut retourner une carte de vérification. Si la carte n'est pas un cœur, la personne qu'il a endommagé doit soit recevoir les dommages de Xiahou Dun ou soit défausser deux cartes de sa main."
+			}
 		}
 	},
-
 
 	"nameCarte9" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
-		"description" : {
-			"description1": "",
-			"description2": "",
-			"description3":""
+		"nom" : "Xià Hóu Yuān",
+		"nomComplet": "Xià Hóu Yuān 夏侯渊",
+		"image" : "bleu9",
+		"descriptions" : {
+			"description1": {
+				"name": "Godspeed 神速",
+				"description": "Durant son tour, Xiahou Yuan peut exercer une ou l'autre des options suivantes pour attaquer n'importe qui, sans limite de distance:1.) Passer son jugement et phases de pioche. 2.) Passer sa phase d'action et jetez n'importe quelle carte d'équipement."
+			}
 		}
 	},
-
 
 	"nameCarte10" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
-		"description" : {
-			"description1": "",
-			"description2": "",
-			"description3":""
+		"nom" : "Xǔ Chǔ",
+		"nomComplet": "Xǔ Chǔ 许褚",
+		"image" : "bleu10",
+		"descriptions" : {
+			"description1": {
+				"name": "Nu la poitrine 裸衣",
+				"description": "Durant la phase de pioche de Xu Chu, il peut choisir de piocher une carte en moins, ainsi au cours de sa phase d'action, tous les dommages qu'il provoque en utilisant les attaques ou Duels sont augmentées de un."
+			}
 		}
 	},
-
 
 	"nameCarte11" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
-		"description" : {
-			"description1": "",
-			"description2": "",
-			"description3":""
+		"nom" : "Xú Huǎng",
+		"nomComplet": "Xú Huǎng 徐晃",
+		"image" : "bleu11",
+		"descriptions" : {
+			"description1": {
+				"name": "Blocus 断粮",
+				"description": "Xu Huang peut utiliser n'importe quelle carte de base ou de l'équipement signe noir comme la famine (anti-pioche). De plus l'utilisation d'anti pioche est augmentée par un."
+			}
 		}
 	},
-
 
 	"nameCarte12" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
-		"description" : {
-			"description1": "",
-			"description2": "",
-			"description3":""
+		"nom" : "Xún Yù",
+		"nomComplet": "Xún Yù 荀彧",
+		"image" : "bleu12",
+		"descriptions" : {
+			"description1": {
+				"name": "Rouse Tigre 驱虎",
+				"description": "Une fois au cours de sa phase d'action, Xun Yu peut faire un duel avec n'importe qui avec plus de santé que lui. S'il gagne, il peut sélectionner un joueur dans la gamme d'attaque de la cible et la cible fait un dommage à ce joueur. Si Xun Yu perd, il perd un point de vie."
+			},
+			"description2": {
+				"name": "Éternelle fidélité 节命",
+				"description": "Pour chaque dégâts qu'il reçoit, il peut sélectionner une personne. Cette personne tire ensuite les cartes jusqu'à ce que le nombre de cartes en main est égale à leur limite maximale de la santé."
+			}
 		}
 	},
-
-
 
 	"nameCarte13" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
-		"description" : {
-			"description1": "",
-			"description2": "",
-			"description3":""
+		"nom" : "Yú Jìn",
+		"nomComplet": "Yú Jìn 于禁",
+		"image" : "bleu13",
+		"descriptions" : {
+			"description1": {
+				"name": "Résoudre lourd 毅重",
+				"description": "Lorsque Yu Jin a pas d'armure, les attaques noirs n'ont aucun effet sur lui."
+			}
 		}
 	},
-
 
 	"nameCarte14" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
-		"description" : {
-			"description1": "",
-			"description2": "",
-			"description3":""
+		"nom" : "hāng Chūn Huá",
+		"nomComplet": "hāng Chūn Huá 张春华",
+		"image" : "bleu14",
+		"descriptions" : {
+			"description1": {
+				"name": "Prochainement.",
+				"description": "."
+			}
 		}
 	},
-
 
 	"nameCarte15" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
-		"description" : {
-			"description1": "",
-			"description2": "",
-			"description3":""
+		"nom" : "Zhāng Hé",
+		"nomComplet": "Zhāng Hé 张郃",
+		"image" : "bleu15",
+		"descriptions" : {
+			"description1": {
+				"name": "Clever Changer 巧变 ",
+				"description": "Au début de l'une de ses phases (pioche, action, jeter) il peut défausser une carte de la main et sauter la phase. Si Zhang  saute sa phase de pioche avec cette capacité, il peut choisir jusqu'à 2 personnages et piocher une carte de la main de chacun.	Si Zhang saute sa phase d'action de cette manière, il est possible de sélectionner une carte de l'outil de retard (prison anti pioche) ou un équipement d'un personnage et de le placer sur un autre personnage. Il ne peut pas l'utiliser pour remplacer une autre pièce d'équipement similaire sur un autre personnage."
+			}
 		}
 	},
-
 
 	"nameCarte16" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
-		"description" : {
-			"description1": "",
-			"description2": "",
-			"description3":""
+		"nom" : "Zhāng Liáo",
+		"nomComplet": "Zhāng Liáo 张辽",
+		"image" : "bleu16",
+		"descriptions" : {
+			"description1": {
+				"name": "Raid 突袭",
+				"description": "Durant sa phase de pioche, il peut choisir de renoncer à tirer deux cartes de la pioche et à la place, il peut choisir jusqu'à deux personnes et leur prendre une carte chacun dans la main."
+			}
 		}
 	},
-
 
 	"nameCarte17" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
-		"description" : {
-			"description1": "",
-			"description2": "",
-			"description3":""
+		"nom" : "Zhēn Jī",
+		"nomComplet": "Zhēn Jī 甄姬",
+		"image" : "bleu17",
+		"descriptions" : {
+			"description1": {
+				"name": "Renversé Pays 倾国",
+				"description": "Zhen Ji peut utiliser n'importe quelle carte main noire comme un raté."
+			},
+			"description2": {
+				"name": "Déesse de la rivière 洛神 ",
+				"description": "Avant sa phase de pioche, Zhen Ji peut choisir de retourner une carte de jugement. Si elle est noire, elle a choisi de retourner une autre carte de jugement. Ce processus se poursuit jusqu'à ce que Zhen Ji retourne une carte de jugement rouge. La carte de jugement rouge est éliminé et les cartes de jugement noirs sont placés dans la main de Zhen Ji."
+			}
 		}
 	},
-
 
 	"nameCarte18" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
-		"description" : {
-			"description1": "",
-			"description2": "",
-			"description3":""
+		"nom" : "Cáo Zhí",
+		"nomComplet": "Cáo Zhí 曹植",
+		"image" : "bleu18",
+		"descriptions" : {
+			"description1": {
+				"name": "Fallen Bloom 落英",
+				"description": "Chaque fois qu'une autre personne défausse ou retourne une carte de verification dans la pile de défausse, Cao Zhi peut immédiatement placer cette carte dans sa main."
+			},
+			"description2": {
+				"name": "Poèmes de vin 酒诗",
+				"description": "Lorsque Cao Zhi est face visible, il peut choisir de retourner face cachée d'utiliser Vin. Lorsque Cao Zhi prend des dégâts quand il est face non visible il peut retourner sa carte face visible."
+			}
 		}
 	},
-
 
 	"nameCarte19" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
-		"description" : {
-			"description1": "",
-			"description2": "",
-			"description3":""
+		"nom" : "Wang Yi",
+		"nomComplet": "Wang Yi 王 异",
+		"image" : "bleu19",
+		"descriptions" : {
+			"description1": {
+				"name": "Chastity  贞烈",
+				"description": "Chaque fois que Wang Yi retourne une carte de jugement, elle peut choisir de retourner une deuxième carte de jugement. La deuxième carte retournée est le jugement qui entrera en vigueur."
+			},
+			"description2": {
+				"name": "Le plan secret  秘计",
+				"description": "Au début et la fin de son tour, si elle n'est pas en pleine santé, Wang Yi peut retourner une carte de jugement. Si elle est noire, elle pioche X cartes de la pioche, X étant la différence entre son état de santé actuel et maximal. Wang Yi donne alors ceux-ci à n'importe quel caractère."
+			}
 		}
 	},
-
 
 	"nameCarte20" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
-		"description" : {
-			"description1": "",
-			"description2": "",
-			"description3":""
+		"nom" : "Xún Yoū 荀攸",
+		"nomComplet": "Xún Yoū",
+		"image" : "bleu20",
+		"descriptions" : {
+			"description1": {
+				"name": "Contrivance 奇策",
+				"description": "Dans la phase d'action, vous pouvez utiliser toutes vos cartes sur la main (minimum de un) comme une non-retard carte de l'outil. Limité à une fois par tour."
+			},
+			"description2": {
+				"name": "Jouer Dumb 智愚",
+				"description": "Chaque dommages qu'il recoit, il pioche une carte, puis montre toutes ses cartes de la main. Si toutes les cartes sont de la même couleur, la source de votre dommage doit jeter l'un sur la main carte."
+			}
 		}
 	},
 
-
 	"nameCarte21" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
-		"description" : {
-			"description1": "",
-			"description2": "",
-			"description3":""
+		"nom" : "Cao Zhang",
+		"nomComplet": "Cao Zhang 曹彰",
+		"image" : "bleu21",
+		"descriptions" : {
+			"description1": {
+				"name": "Galopant général 将驰",
+				"description": "Durant la phase de pioche, il peut choisir l'une des options suivantes:	1) Cao Zhang pioche une carte supplémentaire, mais ne peut pas jouer Attaque cartes durant ce tour.	2) Cao Zhang pioche une carte en moins et il peut attaquer à une porté illimité ainsi utiliser une carte attaque en plus."
+			}
 		}
 	},
 
 	"nameCarte22" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
-		"description" : {
-			"description1": "",
-			"description2": "",
-			"description3":""
+		"nom" : "Zhong Hui",
+		"nomComplet": "Zhong Hui 钟会",
+		"image" : "bleu22",
+		"descriptions" : {
+			"description1": {
+				"name": "amasser la puissance 权计",
+				"description": "Pour chaque dommages que Zhong Hui reçoit, il peut choisir de piocher une carte et la mettre à côté de sa carte personnage. Ce sont des rites. A la fin de son tour, la limite de sa de Zhong Hui est augmenté de un pour chaque rite.(carte supplémentaire dans la main)."
+			},
+			"description2": {
+				"name": "Insurrection 自立",
+				"description": "Lorsque Zhong Hui commence son tour avec 3 ou plusieurs rites, il doit soit remettre une santé ou piocher deux cartes. Il diminue ensuite sa santé maximale par 1 et gagne le rejet de capacité. (Une fois par tour, Zhong Hui peut jeter un Rite et forcer n'importe quel personnage pour tirer deux. Si ce personnage a alors plus de cartes en main que Zhong Hui, Zhong Hui traite un dommage pour eux)."
+			}
 		}
 	},
-
 
 	"nameCarte23" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
-		"description" : {
-			"description1": "",
-			"description2": "",
-			"description3":""
+		"nom" : "Cao Chong",
+		"nomComplet": "Cao Chong 曹冲",
+		"image" : "bleu23",
+		"descriptions" : {
+			"description1": {
+				"name": "Peser l'éléphant 称象",
+				"description": "Chaque fois que Cao Chong est endommagé, il peut montrer les quatre cartes de la pioche. Il prend alors une combinaison de cartes dont le total de point doit être inférieur à treize."
+			},
+			"description2": {
+				"name": "Bienveillance 仁心",
+				"description": "Chaque fois qu'un autre personnage est au bord de la mort, Cao Chong peut leur donner toute ses cartes et retourner sa carte personnage afin de permettre au joueur de récupérer une vie."
+			}
 		}
 	},
 
-
 	"nameCarte24" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
-		"description" : {
-			"description1": "",
-			"description2": "",
-			"description3":""
+		"nom" : "Guo Huai",
+		"nomComplet": "Guo Huai 郭淮",
+		"image" : "bleu24",
+		"descriptions" : {
+			"description1": {
+				"name": "Stratégie raffinée 精策",
+				"description": "Au début de sa phase de pioche, Guo Huai pioche deux cartes s'il a utilisé au moins X cartes pendant son tour, X étant son niveau de santé au début de sa phase de défausse."
+			}
 		}
 	},
 
 	"nameCarte25" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
-		"description" : {
-			"description1": "",
-			"description2": "",
-			"description3":""
-		}
-	},
-
-	"nameCarte26" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
-		"description" : {
-			"description1": "",
-			"description2": "",
-			"description3":""
-		}
-	},
-
-	"nameCarte27" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
-		"description" : {
-			"description1": "",
-			"description2": "",
-			"description3":""
-		}
-	},
-	"nameCarte28" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
-		"description" : {
-			"description1": "",
-			"description2": "",
-			"description3":""
+		"nom" : "Man Chong",
+		"nomComplet": "Man Chong 满宠",
+		"image" : "bleu25",
+		"descriptions" : {
+			"description1": {
+				"name": "Les châtiments corporels 峻刑",
+				"description": "Une fois par tour, Man Chong peut sélectionner n'importe qui et l'obliger à défausser autant de carte que Man Chong en defausse. La cible doit se défausser d'une carte de la main d'un type différent que celle jeté par Man Chong. S'ils ne le font pas, il retourne sa carte de personnage et tire X cartes, X étant le nombre de cartes défaussées par Man Chong."
+			},
+			"description2": {
+				"name": "Stratégie de défense  御策",
+				"description": "Quand Man Chong est endommagé, il peut montrer une de ses cartes en main. La source de dommages doit se défausser d'une carte d'un autre type ou Man Chong récupère une vie."
+			}
 		}
 	}
 }

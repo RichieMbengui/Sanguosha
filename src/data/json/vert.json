@@ -1,331 +1,354 @@
 {
 	"nameCarte1" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
-		"description" : {
-			"description1": "",
-			"description2": "",
-			"description3":""
+		"nom" : "Sūn Quán",
+		"nomComplet": "Sūn Quán 孙权",
+		"image" : "vert1",
+		"descriptions" : {
+			"description1": {
+				"name": "Reconsidérer 制衡",
+				"description": "Une fois durant son tour, il peut défausser et changer ses cartes avec la pioche."
+			},
+			"description2": {
+				"name": "Sauvée 救援 Pouvoir du Roi",
+				"description": "Chaque fois qu'un autre joueur du Royaume Vert utilise une pêche pour sauver Sun Quan au bord de la mort, il lui fait gagner deux points de vie."
+			}
 		}
 	},
 
 	"nameCarte2" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
-		"description" : {
-			"description1": "",
-			"description2": "",
-			"description3":""
+		"nom" : "Dà Qiáo",
+		"nomComplet": "Dà Qiáo 大乔",
+		"image" : "vert2",
+		"descriptions" : {
+			"description1": {
+				"name": "Scène de pays 国色",
+				"description": "Pendant le tour de Da Qiao, elle peut utiliser n'importe quelle carte carreau de sa main comme une prison."
+			},
+			"description2": {
+				"name": "Déplacer 流离",
+				"description": "Lorsqu'elle est la cible d'une attaque, elle peut jeter n'importe quelle carte pour rediriger l’attaque sur un autre joueur de sa portée autre que l’attaquant."
+			}
 		}
 	},
-
 
 	"nameCarte3" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
-		"description" : {
-			"description1": "",
-			"description2": "",
-			"description3":""
+		"nom" : "Gān Níng",
+		"nomComplet": "Gān Níng 甘宁",
+		"image" : "vert3",
+		"descriptions" : {
+			"description1": {
+				"name": "Surprise 奇袭",
+				"description": "Durant son tour, il peut utiliser n'importe quelle carte en noir comme une carte pont cassé."
+			}
 		}
 	},
 
-
 	"nameCarte4" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
-		"description" : {
-			"description1": "",
-			"description2": "",
-			"description3":""
+		"nom" : "Huáng Gài",
+		"nomComplet": "Huáng Gài 黄盖",
+		"image" : "vert4",
+		"descriptions" : {
+			"description1": {
+				"name": "Battues corps苦肉",
+				"description": "Autant de fois qu'il le souhaite pendant son tour, il peut choisir de perdre une unité de santé et piocher deux cartes."
+			}
 		}
 	},
 
 
 	"nameCarte5" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
-		"description" : {
-			"description1": "",
-			"description2": "",
-			"description3":""
+		"nom" : "Lǚ Méng",
+		"nomComplet": "Lǚ Méng 吕蒙",
+		"image" : "vert5",
+		"descriptions" : {
+			"description1": {
+				"name": "Auto-retenue 克己",
+				"description": "Si il n'utilise pas de carte attaque pendant son tour, il peut passer sa phase de défausse."
+			}
 		}
 	},
-
-
 
 	"nameCarte6" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
-		"description" : {
-			"description1": "",
-			"description2": "",
-			"description3":""
+		"nom" : "Lǔ Sù",
+		"nomComplet": "Lǔ Sù 鲁肃",
+		"image" : "vert6",
+		"descriptions" : {
+			"description1": {
+				"name": "Charité 好施",
+				"description": "Lu Su peut choisir de piocher deux cartes supplémentaires. S'il a plus de cinq cartes, Lu Su doit donner la moitié de sa main, arrondi à la baisse, à un joueur qui a le moins de cartes en main."
+			},
+			"description2": {
+				"name": "Alliance 缔盟",
+				"description": "Une fois par tour, Lu Su peut jeter X cartes pour échanger les cartes des mains de deux joueurs. X est la différence dans le nombre de cartes en main."
+			}
 		}
 	},
-
 
 	"nameCarte7" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
-		"description" : {
-			"description1": "",
-			"description2": "",
-			"description3":""
+		"nom" : "Lù Xùn",
+		"nomComplet": "Lù Xùn 陆逊",
+		"image" : "vert7",
+		"descriptions" : {
+			"description1": {
+				"name": "Humilité 谦逊",
+				"description": "Il ne peut pas être la cible d’une carte braquage ou d’une prison."
+			},
+			"description2": {
+				"name": "Camps liés 连营",
+				"description": "Chaque fois qu'il utilise ou perd sa dernière carte de la main, il tire immédiatement une carte de la pioche."
+			}
 		}
 	},
-
 
 	"nameCarte8" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
-		"description" : {
-			"description1": "",
-			"description2": "",
-			"description3":""
+		"nom" : "Sūn Jiān",
+		"nomComplet": "Sūn Jiān 孙坚",
+		"image" : "vert8",
+		"descriptions" : {
+			"description1": {
+				"name": "Brave Esprit 英魂 ",
+				"description": "Avant son tour, s'il est endommagé, il peut forcer 1 personne à soit: --1: Piocher X cartes, puis défaussez 1.	--2: Piocher une carte, puis défaussez X. X est le nombre de points de vie qui manquent à Sun Jian."
+			}
 		}
 	},
-
 
 	"nameCarte9" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
-		"description" : {
-			"description1": "",
-			"description2": "",
-			"description3":""
+		"nom" : "ūn Shàng Xiāng",
+		"nomComplet": "ūn Shàng Xiāng 孙尚香",
+		"image" : "vert9",
+		"descriptions" : {
+			"description1": {
+				"name": "Mariage 结姻",
+				"description": "Une fois durant son tour,elle peut se défausser deux cartes en main et sélectionner un personnage masculin qui n'est pas en pleine santé. Les deux joueurs gagnent un point de vie."
+			},
+			"description2": {
+				"name": "Consorts armées 枭姬",
+				"description": "Pour chaque équipement quittant sa zone d'équipement, elle pioche deux cartes."
+			}
 		}
 	},
-
 
 	"nameCarte10" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
-		"description" : {
-			"description1": "",
-			"description2": "",
-			"description3":""
+		"nom" : "Zhōu Yú",
+		"nomComplet": "Zhōu Yú 周瑜",
+		"image" : "vert10",
+		"descriptions" : {
+			"description1": {
+				"name": "Geste courageux 英姿",
+				"description": "Au cours de sa phase de pioche, il pioche une carte supplémentaire."
+			},
+			"description2": {
+				"name": "Sow révolte 反间",
+				"description": "Une fois par tour, il peut sélectionner un joueur et le forcer à choisir un signe. Ensuite, la cible choisit une des cartes de sa main. La carte est révélée puis placé dans la main de la cible. Si la cible n'a pas deviné le symbole, il perd un point de vie."
+			}
 		}
 	},
-
 
 	"nameCarte11" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
-		"description" : {
-			"description1": "",
-			"description2": "",
-			"description3":""
+		"nom" : "Zhōu Tài",
+		"nomComplet": "Zhōu Tài 周泰",
+		"image" : "vert11",
+		"descriptions" : {
+			"description1": {
+				"name": "Refusant mort 不屈",
+				"description": "Lorsqu'il est sur le point de mourir, il peut choisir de retourner la carte du dessus de la pioche et la mettre sous sa carte personnage. Il est toujours considéré comme sur le seuil de la mort. Pour chaque dommage, il peut choisir de retourner une autre carte de la pioche. Si deux cartes ont le même nombre, il meurt. Chaque fois qu'il est guéri dans cet état, il peut choisir une de ces cartes et la jeter."
+			}
 		}
 	},
-
 
 	"nameCarte12" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
-		"description" : {
-			"description1": "",
-			"description2": "",
-			"description3":""
+		"nom" : "Tài Shǐ Cí",
+		"nomComplet": "Tài Shǐ Cí 太史慈",
+		"image" : "vert12",
+		"descriptions" : {
+			"description1": {
+				"name": "Justice du ciel 天义",
+				"description": "Une fois par tour, il peut provoquer un point de duel avec n'importe quel autre joueur. S'il gagne, il peut utiliser une attaque supplémentaire, chaque attaque a une portée illimitée et peut cibler un joueur supplémentaire. Si Tai Shi Ci perd, il ne peut pas attaquer ce tour."
+			}
 		}
 	},
-
-
 
 	"nameCarte13" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
-		"description" : {
-			"description1": "",
-			"description2": "",
-			"description3":""
+		"nom" : "Xiǎo Qiáo",
+		"nomComplet": "Xiǎo Qiáo 小乔",
+		"image" : "vert13",
+		"descriptions" : {
+			"description1": {
+				"name": "Imagination 天香",
+				"description": "Quand elle reçoit des dommages, elle peut jeter n'importe quelle carte cœur de sa main et la passer à un autre joueur. Ils prennent alors X cartes, X étant le nombre total de points de vie que le personnage a après les dommages reçus."
+			},
+			"description2": {
+				"name": "Beauté 红颜",
+				"description": "Tous ses piques sont considérés comme une carte « cœur »."
+			}
 		}
 	},
-
 
 	"nameCarte14" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
-		"description" : {
-			"description1": "",
-			"description2": "",
-			"description3":""
+		"nom" : "Bù Lianshi",
+		"nomComplet": "Bù Lianshi 步 练 师",
+		"image" : "vert14",
+		"descriptions" : {
+			"description1": {
+				"name": "Pacify安恤",
+				"description": "Durant son tour, elle peut choisir 2 joueurs (autres que elle-même) avec un nombre différent de cartes dans la main. Le joueur avec moins de cartes dans la main prend une carte de l'autre joueur, et la montre à tous les joueurs. Si cette carte n'est pas un pique, elle peut piocher une carte de la pioche. Limitée à une fois par tour."
+			},
+			"description2": {
+				"name": "In Loving Memory追忆",
+				"description": "Quand elle meurt, elle peut choisir un joueur (autre que elle-même et le joueur qui la a tué) pour piocher 3 cartes et de retrouver une vie."
+			}
 		}
 	},
-
 
 	"nameCarte15" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
-		"description" : {
-			"description1": "",
-			"description2": "",
-			"description3":""
+		"nom" : "Hàn Dāng",
+		"nomComplet": "Hàn Dāng 韩当",
+		"image" : "vert15",
+		"descriptions" : {
+			"description1": {
+				"name": "Gendarmerie Archer弓骑",
+				"description": "Il peut utiliser ou jouer une carte d'équipement comme une carte d'attaquer.Cette attaque utilisée par cette pouvoir n'a pas de limitation de distance."
+			},
+			"description2": {
+				"name": "résolveur de troubles解烦",
+				"description": "Lorsqu'un joueur est au bord de la mort, il peut utiliser une attaque sur le joueur. Si cette attaque cause des dommages, cette attaque est considéré comme une pêche sur la personne sur le point de mourir."
+			}
 		}
 	},
-
 
 	"nameCarte16" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
-		"description" : {
-			"description1": "",
-			"description2": "",
-			"description3":""
+		"nom" : "Ling Tǒng",
+		"nomComplet": "Ling Tǒng 凌 统",
+		"image" : "vert16",
+		"descriptions" : {
+			"description1": {
+				"name": "Tempest旋风",
+				"description": "Chaque fois qu'une carte équipement est supprimé ou soit s'il defausse deux cartes en main au cours de sa phase de defause, il peut faire deux ponts cassés aux autres personnes."
+			}
 		}
 	},
-
 
 	"nameCarte17" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
-		"description" : {
-			"description1": "",
-			"description2": "",
-			"description3":""
+		"nom" : "Sūn Cè",
+		"nomComplet": "Sūn Cè 孙策s",
+		"image" : "vert17",
+		"descriptions" : {
+			"description1": {
+				"name": "Passion  激昂",
+				"description": "Durant son tour, un joueur peut utiliser une pêche pour augmenter d'un point de vie."
+			},
+			"description2": {
+				"name": "Âme Position  魂姿",
+				"description": "Si, au début de son tour, Sun Ce a une vie, il doit réduire immédiatement sa santé maximale de un. Ensuite, il gagne définitivement geste courageux ( lui permet de tirer 3 cartes) et brave Esprit (piocher-X défausser 1 'ou' piocher 1 une défausse X)."
+			},
+			"description3": {
+				"name": "Roi Capacité",
+				"description": "les personnages du royaume peuvent faire un duel avec Sun Ce. S'il ne gagne pas, il garde les attaques utilisé dans le duel. S'il gagne il active son pouvoir et il peut refuser les duels."
+			}
 		}
 	},
-
 
 	"nameCarte18" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
-		"description" : {
-			"description1": "",
-			"description2": "",
-			"description3":""
+		"nom" : "Wu Guo Tai",
+		"nomComplet": "Wu Guo Tai 吴国太",
+		"image" : "vert18",
+		"descriptions" : {
+			"description1": {
+				"name": "Exposition  甘露",
+				"description": "Dans la phase d'action, elle peut choisir 2 joueurs et échanger toutes leurs cartes équipement. La différence dans le nombre de cartes équipement entre les 2 joueurs ne doit pas être de plus de X, où X est le montant de la santé que elle a son tour. Limité à une fois par tour."
+			},
+			"description2": {
+				"name": "Modifier  补益",
+				"description": "Quand un joueur est sur le point de mourir, elle peut afficher l'une des cartes en main du joueur. Si cette carte est pas une carte de base, le joueur va jeter cette carte et retrouver une 1 vie."
+			}
 		}
 	},
-
 
 	"nameCarte19" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
-		"description" : {
-			"description1": "",
-			"description2": "",
-			"description3":""
+		"nom" : "Xu Sheng",
+		"nomComplet": "Xu Sheng 徐盛",
+		"image" : "vert19",
+		"descriptions" : {
+			"description1": {
+				"name": "Bras Cassés破军",
+				"description": "Lorsqu'il emdommage un joueur avec une attaque, il peut retourner leur carte du personnage de la cible et lui demander de tirer X cartes, X est le nombre de vie restant après le dommage."
+			}
 		}
 	},
-
 
 	"nameCarte20" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
-		"description" : {
-			"description1": "",
-			"description2": "",
-			"description3":""
+		"nom" : "Zhang Zhao et Zhang Hong",
+		"nomComplet": "Zhang Zhao et Zhang Hong  张昭&张紘",
+		"image" : "vert20",
+		"descriptions" : {
+			"description1": {
+				"name": "Direct Instruction  直谏",
+				"description": "Dans la phase d'action, ils peuvent mettre une carte équipement de leur main dans le domaine de la carte équipée d'un autre personnage (vous ne pouvez pas remplacer un équipement déjà équipé). il peuvent piocher ensuite une carte."
+			},
+			"description2": {
+				"name": "Têtu  固执",
+				"description": "A la fin de phase de défausse d'un autre personnage, Zhang Zhao et Zhang Hong peuvent retourne une des cartes de la cible et lui rendre.Ensuite Zhang Zhao et Zhang Hong peuvent placer toutes les autres cartes défaussées dans leur main."
+			}
 		}
 	},
 
-
 	"nameCarte21" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
-		"description" : {
-			"description1": "",
-			"description2": "",
-			"description3":""
+		"nom" : "Chéng Pǔ",
+		"nomComplet": "Chéng Pǔ 程普",
+		"image" : "vert21",
+		"descriptions" : {
+			"description1": {
+				"name": "Toxique feu 疠火",
+				"description": "Cheng Pu peut utiliser n'importe lequel de ses attaques comme une attaque de feu quand il convertie son attaque en feu et si l'attaque cause des dommages, il perd 1 vie. Lorsqu'il utilise la carte flamme, il peut sélectionner 1 joueur ciblé supplémentaire."
+			},
+			"description2": {
+				"name": "Forte vin  醇醪",
+				"description": " A la fin du tour de Cheng Pu, s'il n'a pas de jetons alcool, il peut placer les cartes attaques devant lui cela sera des jetons d'alcool. Quand quelqu'un est sur ​​le point de mourir, Cheng Pu peut jeter un Token alcool et le guérir."
+			}
 		}
 	},
 
 	"nameCarte22" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
-		"description" : {
-			"description1": "",
-			"description2": "",
-			"description3":""
+		"nom" : "Zhu Ran",
+		"nomComplet": "Zhu Ran 朱然",
+		"image" : "vert22",
+		"descriptions" : {
+			"description1": {
+				"name": "Nerfs d'acier 胆守",
+				"description": "Chaque fois que Zhu Ran cause des dommages, il peut choisir de tirer immédiatement une carte et terminer le tour en cours que cela soit son tour ou celui d'un autre. Tous les autres effets sont ignorés (phase de défausse) lorsque cette capacité est activée (pouvoir du personnage cible)."
+			}
 		}
 	},
-
 
 	"nameCarte23" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
-		"description" : {
-			"description1": "",
-			"description2": "",
-			"description3":""
+		"nom" : "Yu Fan",
+		"nomComplet": "Yu Fan 虞翻",
+		"image" : "vert23",
+		"descriptions" : {
+			"description1": {
+				"name": "Rejet dans Abyss 纵玄",
+				"description": "Chaque fois que les cartes de Yu Fan sont jetés, il peut les placer sur le dessus de la pioche."
+			},
+			"description2": {
+				"name": "Mots Blunt  直言",
+				"description": "A la fin de son tour, Yu Fan peut choisir n'importe quel personnage. Ce personnage retourne la carte du dessus de la plate-forme. S'il s'agit d'une pièce d'équipement, cette carte est placée dans la zone d'équipement et ils récupérer 1 vie. Sinon, la carte est placée à la main."
+			}
 		}
 	},
-
 
 	"nameCarte24" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
-		"description" : {
-			"description1": "",
-			"description2": "",
-			"description3":""
-		}
-	},
-
-	"nameCarte25" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
-		"description" : {
-			"description1": "",
-			"description2": "",
-			"description3":""
-		}
-	},
-
-	"nameCarte26" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
-		"description" : {
-			"description1": "",
-			"description2": "",
-			"description3":""
-		}
-	},
-
-	"nameCarte27" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
-		"description" : {
-			"description1": "",
-			"description2": "",
-			"description3":""
-		}
-	},
-	"nameCarte28" : {
-		"nom" : "",
-		"nomComplet": "Élephant",
-		"image" : "",
-		"description" : {
-			"description1": "",
-			"description2": "",
-			"description3":""
+		"nom" : "Pan Zhang & Ma Zhong",
+		"nomComplet": "Pan Zhang & Ma Zhong 潘璋&马忠",
+		"image" : "vert24",
+		"descriptions" : {
+			"description1": {
+				"name": "Seize Arme 夺刀",
+				"description": "Lorsque Pan Zhang & Ma Zhong sont endommagés par une attaque, ils peuvent défausser d'une carte et placer l'arme équipée de la source dans leur main."
+			},
+			"description2": {
+				"name": "Silent Arrow 暗箭",
+				"description": "Lorsque Pan Zhang & Ma Zhong endommager un personnage avec une attaque et ce personnage ne dispose pas de Pan Zhang & Ma Zhong dans leur portée d'attaque, le dommage est augmenté d'une unité."
+			}
 		}
 	}
 }
