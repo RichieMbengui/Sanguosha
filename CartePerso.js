@@ -19,7 +19,7 @@ export default class CartePerso extends Component {
 
             <Text style={{fontSize: 20}} > Les Cartes Personnages </Text>
              <TouchableNativeFeedback
-                   onPress={() => navigate('Chat',{file:fileVert})}
+                   onPress={() => navigate('Chat',{file:fileVert, name:"Cartes du Royaume vert 吴将"})}
                 background={TouchableNativeFeedback.SelectableBackground()}>
               <View style={styles.button}>
                 <Text style={styles.textButton}>Royaume vert 吴将</Text>
@@ -27,7 +27,7 @@ export default class CartePerso extends Component {
             </TouchableNativeFeedback>
 
              <TouchableNativeFeedback
-                   onPress={() => navigate('Chat',{file:fileRouge})}
+                   onPress={() => navigate('Chat',{file:fileRouge, name:"Cartes du Royaume rouge 蜀将"})}
                 background={TouchableNativeFeedback.SelectableBackground()}>
               <View style={styles.button}>
                 <Text style={styles.textButton}>Royaume rouge 蜀将</Text>
@@ -35,7 +35,7 @@ export default class CartePerso extends Component {
             </TouchableNativeFeedback>
 
              <TouchableNativeFeedback
-                   onPress={() => navigate('Chat',{file:fileNoir})}
+                   onPress={() => navigate('Chat',{file:fileNoir, name:"Cartes du Royaume noir 群雄"})}
                 background={TouchableNativeFeedback.SelectableBackground()}>
               <View style={styles.button}>
                 <Text style={styles.textButton}>Royaume noir 群雄</Text>
@@ -43,7 +43,7 @@ export default class CartePerso extends Component {
             </TouchableNativeFeedback>
 
              <TouchableNativeFeedback
-                   onPress={() => navigate('Chat',{file:fileBleu})}
+                   onPress={() => navigate('Chat',{file:fileBleu, name:"Cartes du Royaume bleu 魏将"})}
                 background={TouchableNativeFeedback.SelectableBackground()}>
               <View style={styles.button}>
                 <Text style={styles.textButton}>Royaume bleu 魏将</Text>
@@ -66,6 +66,7 @@ const styles = StyleSheet.create({
     flex: 1,
     fontSize: 18,
     textAlign: 'center',
+    color:'#007aff',
     backgroundColor: 'transparent',
   },
 
@@ -77,6 +78,8 @@ const styles = StyleSheet.create({
     borderWidth: 1,
     borderRadius: 8,
     marginBottom: 10,
+    borderColor:'#007aff',
+    backgroundColor: '#fff',
     alignSelf: 'stretch',
     justifyContent: 'center',
   },

@@ -14,6 +14,10 @@ export default class ListCartes extends Component {
          this._renderRow = this._renderRow.bind(this);
     }
 
+  static navigationOptions = ({navigation}) => ({
+    title: navigation.state.params.name,
+  });
+
     render() {
         const ds = new ListView.DataSource({rowHasChanged: (r1, r2) => r1 !== r2});
         const { params } = this.props.navigation.state;
@@ -43,7 +47,7 @@ export default class ListCartes extends Component {
        return (
               <View style={styles.containerStyle}>
                   <TouchableNativeFeedback
-                    onPress={() => navigate('All',{carte: rowData})}
+                    onPress={() => navigate('All',{carte: rowData, name:rowData.nomComplet})}
                     background={TouchableNativeFeedback.SelectableBackground()}>
                         <View style={styles.row}>
                           <Image source={{ uri:  rowData.image}}  style={styles.carte} />

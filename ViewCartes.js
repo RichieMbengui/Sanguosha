@@ -23,6 +23,12 @@ export default class ViewCartes extends Component {
         this._renderRow = this._renderRow.bind(this);
     }
 
+
+  static navigationOptions = ({navigation}) => ({
+    title: navigation.state.params.name,
+  });
+
+
   render() {
         const { params } = this.props.navigation.state;
         this.carte = params.carte;

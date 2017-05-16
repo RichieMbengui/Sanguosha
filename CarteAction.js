@@ -22,7 +22,7 @@ export default class CarteAction extends Component {
             <Text style={{fontSize: 20}} > Les Cartes Actions </Text>
 
              <TouchableNativeFeedback
-                   onPress={() => navigate('Chat',{file:fileChevaux})}
+                   onPress={() => navigate('Chat',{file:fileChevaux, name:"Cartes chevaux 马"})}
                 background={TouchableNativeFeedback.SelectableBackground()}>
               <View style={styles.button}>
                 <Text style={styles.textButton}>Cartes chevaux 马</Text>
@@ -30,7 +30,7 @@ export default class CarteAction extends Component {
             </TouchableNativeFeedback>
 
              <TouchableNativeFeedback
-                   onPress={() => navigate('Chat',{file:fileMagiques})}
+                   onPress={() => navigate('Chat',{file:fileMagiques, name:"Cartes magiques 锦囊牌"})}
                 background={TouchableNativeFeedback.SelectableBackground()}>
               <View style={styles.button}>
                 <Text style={styles.textButton}>Cartes magiques 锦囊牌</Text>
@@ -38,7 +38,7 @@ export default class CarteAction extends Component {
             </TouchableNativeFeedback>
 
              <TouchableNativeFeedback
-                   onPress={() => navigate('Chat',{file:fileBasiques})}
+                   onPress={() => navigate('Chat',{file:fileBasiques, name:"Cartes basiques 基本牌"})}
                 background={TouchableNativeFeedback.SelectableBackground()}>
               <View style={styles.button}>
                 <Text style={styles.textButton}>Cartes basiques 基本牌</Text>
@@ -46,7 +46,7 @@ export default class CarteAction extends Component {
             </TouchableNativeFeedback>
 
              <TouchableNativeFeedback
-                   onPress={() => navigate('Chat',{file:fileArmes})}
+                   onPress={() => navigate('Chat',{file:fileArmes, name:"Cartes armes 武器"})}
                 background={TouchableNativeFeedback.SelectableBackground()}>
               <View style={styles.button}>
                 <Text style={styles.textButton}>Cartes armes 武器</Text>
@@ -54,7 +54,7 @@ export default class CarteAction extends Component {
             </TouchableNativeFeedback>
 
              <TouchableNativeFeedback
-                   onPress={() => navigate('Chat',{file:fileArmures})}
+                   onPress={() => navigate('Chat',{file:fileArmures, name:"Cartes armures 防具"})}
                 background={TouchableNativeFeedback.SelectableBackground()}>
               <View style={styles.button}>
                 <Text style={styles.textButton}>Cartes armures 防具</Text>
@@ -77,6 +77,7 @@ const styles = StyleSheet.create({
     flex: 1,
     fontSize: 18,
     textAlign: 'center',
+    color:'#007aff',
     backgroundColor: 'transparent',
   },
 
@@ -88,6 +89,8 @@ const styles = StyleSheet.create({
     borderWidth: 1,
     borderRadius: 8,
     marginBottom: 10,
+    borderColor:'#007aff',
+    backgroundColor: '#fff',
     alignSelf: 'stretch',
     justifyContent: 'center',
   },

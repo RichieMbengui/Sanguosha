@@ -38,3 +38,4 @@ const Sanguosha = StackNavigator({
 });
 
 AppRegistry.registerComponent('Sanguosha', () => Sanguosha);
+    
