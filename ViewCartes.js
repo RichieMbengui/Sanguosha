@@ -43,23 +43,22 @@ export default class ViewCartes extends Component {
          };
 
         return (
-               <ScrollView style={styles.viewCarte}>
-                    <View  style={styles.titre} >
-                        <Text style={styles.titreCarte}> { this.carte.nomComplet} </Text>
-                    </View>
+               <View style={styles.viewCarte}>
                     <View  style={styles.imageDesc}>
                         <Image source={{ uri: this.carte.image}} resizeMode='stretch' style={styles.image} />
                     </View>
-                    <View style={styles.containerTitleDesc}>
-                      <Text style={styles.titleDesc}>Description de la carte</Text>
-                   </View>
-                         <ListView
-                            style={styles.container}
-                            dataSource={this.state.dataSource}
-                            renderRow= {this._renderRow}
-                            renderSeparator={this._renderSeparator}
-                          />
-               </ScrollView>
+                    <ScrollView style={styles.containerTitleDesc}>
+                               <View  style={styles.titreCarte}>
+                        <Text style={styles.textName}> { this.carte.nomComplet} </Text>
+                                </View>
+                           <ListView
+                              style={styles.container}
+                              dataSource={this.state.dataSource}
+                              renderRow= {this._renderRow}
+                             // renderSeparator={this._renderSeparator}
+                            />
+                   </ScrollView>
+               </View>
         );
   }
 
@@ -90,6 +89,8 @@ var styles = StyleSheet.create({
   image: {
     width: Dimensions.get('window').width * 0.50,
     height: Dimensions.get('window').height * 0.50,
+    borderWidth: 1,
+    borderRadius: 2,
   },
 
   captionText: {
@@ -97,10 +98,11 @@ var styles = StyleSheet.create({
     color: '#888',
   },
 
-imageDesc: {
-    backgroundColor: '#F5FCFF',
-    alignItems: 'center',
-           },
+    imageDesc: {
+        backgroundColor: '#F5FCFF',
+        alignItems: 'center',
+        padding: 10,
+   },
 
   descName: {
     fontSize: 17,
@@ -115,8 +117,6 @@ imageDesc: {
     },
 
   containerTitleDesc: {
-    justifyContent: 'center',
-    alignItems: 'center',
     backgroundColor: '#F5FCFF',
   },
 
@@ -135,9 +135,14 @@ imageDesc: {
     alignItems: 'center',
   },
 
-  titreCarte: {
-    fontSize: 20,
-  },
+    textName: {
+      fontSize: 20,
+    },
+
+    titreCarte: {
+        justifyContent: 'center',
+        alignItems: 'center',
+    },
 
  caption: {
     justifyContent: 'center',
@@ -153,18 +158,10 @@ imageDesc: {
   },
 
   viewCarte: {
-    backgroundColor: '#F5FCFF',
-        borderWidth: 1,
-        borderRadius: 2,
-        borderColor: '#ddd',
-        borderBottomWidth:0,
-        shadowColor: '#000',
-        shadowOffset:{width:0, height:2},
-        shadowOpacity: 0.1,
-        shadowRadius: 2,
-        marginLeft:5,
-        marginRight:5,
-        marginTop:10,
+      backgroundColor: '#F5FCFF',
+      width: Dimensions.get('window').width ,
+      height: Dimensions.get('window').height,
+        flexDirection: 'row',
   },
 
 });

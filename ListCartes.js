@@ -4,7 +4,7 @@
  * @flow
  */
 import React, { Component } from 'react';
-import { View, ListView, StyleSheet, Text, Navigator,TouchableNativeFeedback, Image } from 'react-native';
+import { View,ScrollView,  ListView, StyleSheet,Dimensions, Text, Navigator,TouchableNativeFeedback,TouchableHighlight, Image } from 'react-native';
 
 export default class ListCartes extends Component {
     file = {};
@@ -32,12 +32,16 @@ export default class ListCartes extends Component {
          };
 
         return (
-          <ListView
-            style={styles.container}
-            dataSource={this.state.dataSource}
-            renderRow= {this._renderRow}
-            //renderSeparator={this._renderSeparator}
-          />
+
+         <ScrollView style={styles.viewRow}>
+            <ListView
+                style={styles.container}
+                dataSource={this.state.dataSource}
+                renderRow= {this._renderRow}
+                contentContainerStyle={{flexDirection:'row', flexWrap:'wrap', alignItems: 'center'}}
+            />
+          </ScrollView>
+
         );
     }
 
@@ -45,18 +49,14 @@ export default class ListCartes extends Component {
     const { navigate } = this.props.navigation;
       let imageurl =  rowData.image;
        return (
-              <View style={styles.containerStyle}>
                   <TouchableNativeFeedback
                     onPress={() => navigate('All',{carte: rowData, name:rowData.nomComplet})}
                     background={TouchableNativeFeedback.SelectableBackground()}>
-                        <View style={styles.row}>
-                          <Image source={{ uri:  rowData.image}}  style={styles.carte} />
-                          <Text style={styles.text}>
-                            {  rowData.nomComplet}
-                          </Text>
-                        </View>
-                </TouchableNativeFeedback>
-              </View>
+                      <View style={styles.row}>
+                        <Image style={styles.carte} source={{ uri:  rowData.image}} />
+
+                      </View>
+                  </TouchableNativeFeedback>
         );
   }
 
@@ -83,41 +83,46 @@ var hashCode = function(str) {
 };
 
 var styles = StyleSheet.create({
-  row: {
+
+ viewRow: {
+        flex:1,
+            marginTop: 5,
+  },
+
+// descrition: {
+//        height: Dimensions.get('window').width / 2,
+//  },
+
+ list: {
+    justifyContent: 'center',
+    alignItems: 'center',
     flexDirection: 'row',
-    padding: 10,
-    backgroundColor: '#F5FCFF',
-  },
-  container: {
-    backgroundColor: '#F5FCFF',
+    flexWrap: 'wrap'
   },
 
-
-  containerStyle: {
-    elevation: 1,
+  row: {
+    justifyContent: 'center',
+    padding: 5,
+    margin: 2,
+    width: Dimensions.get('window').width / 3 - 4,
+    //width:120,
+    height: 120,
+    backgroundColor: '#F6F6F6',
+    alignItems: 'center',
     borderWidth: 1,
     borderRadius: 2,
-    borderColor: '#ddd',
-    borderBottomWidth:0,
-    shadowColor: '#000',
-    shadowOffset:{width:0, height:2},
-    shadowOpacity: 0.1,
-    shadowRadius: 2,
-    marginLeft:5,
-    marginRight:5,
-    marginTop:10,
+    borderColor: '#CCC'
   },
-
-
   carte: {
-    height: 70,
-    width: 60,
+    height: 120,
+        width: 90,
+    resizeMode: 'contain',
     borderRadius: 4,
   },
-
   text: {
-    marginLeft: 12,
-    marginTop: 10,
-    fontSize: 16,
-  },
+    flex: 1,
+    marginTop: 5,
+    fontWeight: 'bold'
+    }
+
 });
