@@ -18,8 +18,7 @@ export default class MyScene extends Component {
             <Text style={{fontSize: 20}} > Les Cartes Personnages </Text>
 
              <TouchableNativeFeedback
-               // onPress={() => navigate('CarteAction', { name: 'Jane' });}
-                   onPress={() => navigate('All')}
+                onPress={() => navigate('All')}
                 background={TouchableNativeFeedback.SelectableBackground()}>
               <View style={styles.button}>
                 <Text style={styles.textButton}>Royaume vert</Text>
@@ -27,8 +26,7 @@ export default class MyScene extends Component {
             </TouchableNativeFeedback>
 
              <TouchableNativeFeedback
-               // onPress={() => navigate('CarteAction', { name: 'Jane' });}
-                   onPress={() => navigate('All')}
+                onPress={() => navigate('All')}
                 background={TouchableNativeFeedback.SelectableBackground()}>
               <View style={styles.button}>
                 <Text style={styles.textButton}>Royaume rouge</Text>
@@ -36,8 +34,7 @@ export default class MyScene extends Component {
             </TouchableNativeFeedback>
 
              <TouchableNativeFeedback
-               // onPress={() => navigate('CarteAction', { name: 'Jane' });}
-                   onPress={() => navigate('All')}
+                onPress={() => navigate('All')}
                 background={TouchableNativeFeedback.SelectableBackground()}>
               <View style={styles.button}>
                 <Text style={styles.textButton}>Royaume noir</Text>
@@ -45,8 +42,7 @@ export default class MyScene extends Component {
             </TouchableNativeFeedback>
 
              <TouchableNativeFeedback
-               // onPress={() => navigate('CarteAction', { name: 'Jane' });}
-                   onPress={() => navigate('All')}
+                onPress={() => navigate('All')}
                 background={TouchableNativeFeedback.SelectableBackground()}>
               <View style={styles.button}>
                 <Text style={styles.textButton}>Royaume bleu</Text>
@@ -67,7 +63,6 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     justifyContent: 'center',
-    //textAlign: 'center',
     alignItems: 'center',
     backgroundColor: '#F5FCFF',
   },
@@ -81,7 +76,6 @@ const styles = StyleSheet.create({
 
   button: {
     height: 44,
-    //width: 500,
     backgroundColor: '#F5FCFF',
     flexDirection: 'row',
     alignItems: 'center',

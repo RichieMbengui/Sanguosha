@@ -11,7 +11,7 @@ export default class ListCartes extends Component {
     constructor() {
         super();
         this.file = {};
-         this._renderRow = this._renderRow.bind(this);
+        this._renderRow = this._renderRow.bind(this);
     }
 
   static navigationOptions = ({navigation}) => ({
@@ -105,7 +105,6 @@ var styles = StyleSheet.create({
     padding: 5,
     margin: 2,
     width: Dimensions.get('window').width / 3 - 4,
-    //width:120,
     height: 120,
     backgroundColor: '#F6F6F6',
     alignItems: 'center',
